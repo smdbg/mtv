@@ -12,6 +12,7 @@ from dotenv import load_dotenv
 import signal
 # Load API key from .env
 load_dotenv()
+STREAM_URL = os.getenv("STREAM_URL")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Constants
@@ -28,7 +29,7 @@ os.makedirs("debug_frames", exist_ok=True)
 
 cmd = [
     'ffmpeg',
-    '-i', 'http://62.176.91.118:8000/play/a04y/index.m3u8',
+    '-i', STREAM_URL,
     '-f', 'image2pipe',
     '-pix_fmt', 'bgr24',
     '-vcodec', 'rawvideo',
