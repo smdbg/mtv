@@ -1,0 +1,1003 @@
+{"input": "Jane Wiedlin | Rush Hour | Ur", "artist": "Jane Wiedlin", "song": "Rush Hour", "target": "Jane Wiedlin - Rush Hour"}
+{"input": "Jane Wiedling | Rush Hour | Fur", "artist": "Jane Wiedlin", "song": "Rush Hour", "target": "Jane Wiedlin - Rush Hour"}
+{"input": "Jane Wiedlin | Rush Hour | Fur", "artist": "Jane Wiedlin", "song": "Rush Hour", "target": "Jane Wiedlin - Rush Hour"}
+{"input": "Rush Hour | Fur", "artist": "Jane Wiedlin", "song": "Rush Hour", "target": "Jane Wiedlin - Rush Hour"}
+{"input": "diwy | Gopd Jirel | PARAdIse", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "rnele | dity | Gobd | Hire | PARAdIse", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Irner gity | Gopd Jifel | PARADiBe", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner City | Good Life | PARADISE", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner | Good Life | PARADISE | city", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner | Good Life | PARADISE | City", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner | Good Life | PARADISE", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner City | Good Life | PARADISE", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Annare | e Heatis Qul", "artist": "Glenn Frey", "song": "The Heat Is On", "target": "Glenn Frey - The Heat Is On"}
+{"input": "dlenn Tret | Iie Heat Is On", "artist": "Glenn Frey", "song": "The Heat Is On", "target": "Glenn Frey - The Heat Is On"}
+{"input": "Glenn | Ihe Heat Is On | Frey", "artist": "Glenn Frey", "song": "The Heat Is On", "target": "Glenn Frey - The Heat Is On"}
+{"input": "Glenn | The Heat Is On | Frey", "artist": "Glenn Frey", "song": "The Heat Is On", "target": "Glenn Frey - The Heat Is On"}
+{"input": "Glenn Frey | The Heat Is Onl", "artist": "Glenn Frey", "song": "The Heat Is On", "target": "Glenn Frey - The Heat Is On"}
+{"input": "Glenn Frey | The Heat Is On", "artist": "Glenn Frey", "song": "The Heat Is On", "target": "Glenn Frey - The Heat Is On"}
+{"input": "The Heat Is On | Frey", "artist": "Glenn Frey", "song": "The Heat Is On", "target": "Glenn Frey - The Heat Is On"}
+{"input": "Glenn | The Heat Is On | Frey", "artist": "Glenn Frey", "song": "The Heat Is On", "target": "Glenn Frey - The Heat Is On"}
+{"input": "Je | Gelebrat | celeltation | Galf", "artist": "Cool & The Gang", "song": "Celebration", "target": "Cool & The Gang - Celebration"}
+{"input": "Celebradlon | Celetration | Gang", "artist": "Cool & The Gang", "song": "Celebration", "target": "Cool & The Gang - Celebration"}
+{"input": "Celebradion | Celebration | Gang", "artist": "Cool & The Gang", "song": "Celebration", "target": "Cool & The Gang - Celebration"}
+{"input": "Celebration | Celebration | Gang", "artist": "Cool & The Gang", "song": "Celebration", "target": "Cool & The Gang - Celebration"}
+{"input": "ite | Fthe | Ghlebration | Ghenration | Gand", "artist": "Kool & The Gang", "song": "Celebration", "target": "Kool & The Gang - Celebration"}
+{"input": "Koole The | Celebration | Celebration | Gang", "artist": "Kool & The Gang", "song": "Celebration", "target": "Kool & The Gang - Celebration"}
+{"input": "Celebration | Celebration", "artist": "Kool & The Gang", "song": "Celebration", "target": "Kool & The Gang - Celebration"}
+{"input": "Celebration | Celebration | Gang", "artist": "Kool & The Gang", "song": "Celebration", "target": "Kool & The Gang - Celebration"}
+{"input": "Tlie Four | Loco In Acapulco | Their Greatest Hits | Tops", "artist": "The Four Tops", "song": "Loco In Acapulco", "target": "The Four Tops - Loco In Acapulco"}
+{"input": "The Four Tops | Loco In Acapulco | Their Greatest Hits", "artist": "The Four Tops", "song": "Loco In Acapulco", "target": "The Four Tops - Loco In Acapulco"}
+{"input": "The Four | Loco In Acapulco | Their Greatest Hits | Tops", "artist": "The Four Tops", "song": "Loco In Acapulco", "target": "The Four Tops - Loco In Acapulco"}
+{"input": "Loco In Acapulco | Their Greatest Hits | Tops", "artist": "The Four Tops", "song": "Loco In Acapulco", "target": "The Four Tops - Loco In Acapulco"}
+{"input": "Four | TlainGreatest Hits | The | Tops", "artist": "The Four Tops", "song": "Loco In Acapulco", "target": "The Four Tops - Loco In Acapulco"}
+{"input": "The Four | Laco In Acapulco | TheinGreatest Hits | Tops", "artist": "The Four Tops", "song": "Loco In Acapulco", "target": "The Four Tops - Loco In Acapulco"}
+{"input": "Four | Loco In Acapulco | Thein Greatest Hits | Tops", "artist": "The Four Tops", "song": "Loco In Acapulco", "target": "The Four Tops - Loco In Acapulco"}
+{"input": "The Four | Loco In Acapulco | Their Greatest Hits | Tops", "artist": "The Four Tops", "song": "Loco In Acapulco", "target": "The Four Tops - Loco In Acapulco"}
+{"input": "Miaml Sound Machilne | Dr Beat | Exitos De Gloria Estefan", "artist": "Miami Sound Machine", "song": "Dr. Beat", "target": "Miami Sound Machine - Dr. Beat"}
+{"input": "Dr Beat | Exitos De Gloria Estefan", "artist": "Miami Sound Machine", "song": "Dr. Beat", "target": "Miami Sound Machine - Dr. Beat"}
+{"input": "Miami Sound Machine | Dr Beat | Exitos De Gloria Estefan", "artist": "Miami Sound Machine", "song": "Dr. Beat", "target": "Miami Sound Machine - Dr. Beat"}
+{"input": "Miami Sound Machinje | Dr Beat | Exitos De Gloria Estefan", "artist": "Miami Sound Machine", "song": "Dr. Beat", "target": "Miami Sound Machine - Dr. Beat"}
+{"input": "Miaml Sound Machine | Dr Beat | Exitos De Gloria Estefan", "artist": "Gloria Estefan", "song": "Dr. Beat", "target": "Gloria Estefan - Dr. Beat"}
+{"input": "Miami Sound Machine | Dr Beat | Exitos De Gloria Estefan", "artist": "Gloria Estefan", "song": "Dr. Beat", "target": "Gloria Estefan - Dr. Beat"}
+{"input": "Miami Sound Machije | Dr Beat | Exitos De Gloria Estefan", "artist": "Gloria Estefan", "song": "Dr. Beat", "target": "Gloria Estefan - Dr. Beat"}
+{"input": "Miami Sound Machine | Dr Beat", "artist": "Gloria Estefan", "song": "Dr. Beat", "target": "Gloria Estefan - Dr. Beat"}
+{"input": "Goor | Harrisdn | Got MyaMind Set On Yor | Claud Nine", "artist": "George Harrison", "song": "Got My Mind Set On You", "target": "George Harrison - Got My Mind Set On You"}
+{"input": "Georye Harrisoh | Got | Mind Set On Yoy | Cloud Nine", "artist": "George Harrison", "song": "Got My Mind Set On You", "target": "George Harrison - Got My Mind Set On You"}
+{"input": "George Harrison | Gor My Mind Set On You | Cloud Nine", "artist": "George Harrison", "song": "Got My Mind Set On You", "target": "George Harrison - Got My Mind Set On You"}
+{"input": "George Harrison | Got My Mind Set On You | Cloud Nine", "artist": "George Harrison", "song": "Got My Mind Set On You", "target": "George Harrison - Got My Mind Set On You"}
+{"input": "Torde Harrison | My Mind Set On You | bud Nine", "artist": "George Harrison", "song": "Got My Mind Set On You", "target": "George Harrison - Got My Mind Set On You"}
+{"input": "Geprge Harrison | Got My Mind Set On You | Cidud Nine", "artist": "George Harrison", "song": "Got My Mind Set On You", "target": "George Harrison - Got My Mind Set On You"}
+{"input": "Gaurye Harrison | Ci | Nine | Dud", "artist": "George Harrison", "song": "Got My Mind Set On You", "target": "George Harrison - Got My Mind Set On You"}
+{"input": "Georye Harrison | Clboud Nine", "artist": "George Harrison", "song": "Got My Mind Set On You", "target": "George Harrison - Got My Mind Set On You"}
+{"input": "MUsIc IF | YISIO", "artist": "YISIO", "song": "MUSIC IF", "target": "YISIO - MUSIC IF"}
+{"input": "Phil Collins | Hello", "artist": "Phil Collins", "song": "You Can't Hurry Love", "target": "Phil Collins - You Can't Hurry Love"}
+{"input": "Phil Collins | Hello | Must Be", "artist": "Phil Collins", "song": "You Can't Hurry Love", "target": "Phil Collins - You Can't Hurry Love"}
+{"input": "Phil Collins | Hello | Must Be Going", "artist": "Phil Collins", "song": "You Can't Hurry Love", "target": "Phil Collins - You Can't Hurry Love"}
+{"input": "Phil Collins | You Cantt Hurry Love", "artist": "Phil Collins", "song": "You Can't Hurry Love", "target": "Phil Collins - You Can't Hurry Love"}
+{"input": "Phll Gollins | Love | Hello | lueey", "artist": "Phil Collins", "song": "Hello", "target": "Phil Collins - Hello"}
+{"input": "Phil Collins | Hello | Must Be", "artist": "Phil Collins", "song": "Hello", "target": "Phil Collins - Hello"}
+{"input": "Phil Collins | Hello", "artist": "Phil Collins", "song": "Hello", "target": "Phil Collins - Hello"}
+{"input": "Phil Collins | Hello | Must Bet", "artist": "Phil Collins", "song": "Hello", "target": "Phil Collins - Hello"}
+{"input": "Starship | Kuec Deenn | Hoopla | Giy", "artist": "Starship", "song": "We Built This City", "target": "Starship - We Built This City"}
+{"input": "Starship | Kaec Deep In-The Hoopla | City", "artist": "Starship", "song": "We Built This City", "target": "Starship - We Built This City"}
+{"input": "Starship | We Built This City | Knee Deep In- The Hoopla", "artist": "Starship", "song": "We Built This City", "target": "Starship - We Built This City"}
+{"input": "Starship | We Built This City | Knee Deep In The Hoopla", "artist": "Starship", "song": "We Built This City", "target": "Starship - We Built This City"}
+{"input": "Starship | We Built This Ciy", "artist": "Starship", "song": "We Built This City", "target": "Starship - We Built This City"}
+{"input": "Starship | We Built This City | Knee DeepIn The Hobpla", "artist": "Starship", "song": "We Built This City", "target": "Starship - We Built This City"}
+{"input": "Starship | We Built This City | Knee Deep In The Hoopla", "artist": "Starship", "song": "We Built This City", "target": "Starship - We Built This City"}
+{"input": "Starship | Knee Deep In The Hoopla | City", "artist": "Starship", "song": "We Built This City", "target": "Starship - We Built This City"}
+{"input": "Madlonr | Materiall Girl", "artist": "Madonna", "song": "Material Girl", "target": "Madonna - Material Girl"}
+{"input": "Madoia | Materjal Girl", "artist": "Madonna", "song": "Material Girl", "target": "Madonna - Material Girl"}
+{"input": "Madoina | Materjal Girl", "artist": "Madonna", "song": "Material Girl", "target": "Madonna - Material Girl"}
+{"input": "Madoiia | Materjal Girl", "artist": "Madonna", "song": "Material Girl", "target": "Madonna - Material Girl"}
+{"input": "Madunna | MaterialGir", "artist": "Madonna", "song": "Material Girl", "target": "Madonna - Material Girl"}
+{"input": "Madonna | Material Girl", "artist": "Madonna", "song": "Material Girl", "target": "Madonna - Material Girl"}
+{"input": "Madomna | Material Girl", "artist": "Madonna", "song": "Material Girl", "target": "Madonna - Material Girl"}
+{"input": "Madonna | Marerial Girl", "artist": "Madonna", "song": "Material Girl", "target": "Madonna - Material Girl"}
+{"input": "Belinda Carlisle | Heaven Is A | On Earth | Heaven On Earth | Place", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Belinda Carlisle | Heaven Is A Place On Earth | Heaven On Earth", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Belinela Carlisle | Heaven On Earth", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Belingla Carlisle | Heaven On Earth", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Bolinda Carlisle | Heaven Is A Place On Earth | Heaven On Earth", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Seereuetal anete | eaver Is A Dlate Oiat | Maaenanet", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Balinda Garlisle | Keaven On Earth", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Belinda Carlisle | Heaven Is A Place On Earth | Heaven On Earth", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Belinda Carlisle | Heaven Is A Place On Earth | aven On Earth", "artist": "Belinda Carlisle", "song": "Heaven Is A Place On Earth", "target": "Belinda Carlisle - Heaven Is A Place On Earth"}
+{"input": "Steve WNinwood | Higher Love | ack In The High Life", "artist": "Steve Winwood", "song": "Higher Love", "target": "Steve Winwood - Higher Love"}
+{"input": "Steve Winwood | Higher Love | Back In The High Life", "artist": "Steve Winwood", "song": "Higher Love", "target": "Steve Winwood - Higher Love"}
+{"input": "Steve Winwood | Higher Love | Back In The High | Life", "artist": "Steve Winwood", "song": "Higher Love", "target": "Steve Winwood - Higher Love"}
+{"input": "Steve Winwood | Higher Love | BackIn The High Life", "artist": "Steve Winwood", "song": "Higher Love", "target": "Steve Winwood - Higher Love"}
+{"input": "Bobby Mcferrin | Happy", "artist": "Bobby McFerrin", "song": "Don't Worry Be Happy", "target": "Bobby McFerrin - Don't Worry Be Happy"}
+{"input": "Bobby Mcferrin | Simple Pleasures", "artist": "Bobby McFerrin", "song": "Don't Worry Be Happy", "target": "Bobby McFerrin - Don't Worry Be Happy"}
+{"input": "Bobby Mcferrin | Worry Be Happy | Simple Pleasures", "artist": "Bobby McFerrin", "song": "Don't Worry Be Happy", "target": "Bobby McFerrin - Don't Worry Be Happy"}
+{"input": "Bobby Mcferrin | Donlt Worry Be Happy | Simple Pleasures", "artist": "Bobby McFerrin", "song": "Don't Worry Be Happy", "target": "Bobby McFerrin - Don't Worry Be Happy"}
+{"input": "SExpress | Orlginal Soundtrack", "artist": "S'Express", "song": "Original Soundtrack", "target": "S'Express - Original Soundtrack"}
+{"input": "SExpress | Original Soundtrack", "artist": "S'Express", "song": "Original Soundtrack", "target": "S'Express - Original Soundtrack"}
+{"input": "SExprss | Origlnal Soundtrack", "artist": "S'Express", "song": "Original Soundtrack", "target": "S'Express - Original Soundtrack"}
+{"input": "S Express | Original Soundtrack", "artist": "S'Express", "song": "Original Soundtrack", "target": "S'Express - Original Soundtrack"}
+{"input": "Salt-N-Pepa | Push It | Salt With A Deadly Pepa", "artist": "Salt-N-Pepa", "song": "Push It", "target": "Salt-N-Pepa - Push It"}
+{"input": "Salt-N-Pepa | Push It | Salt With A Deadly | Pepa", "artist": "Salt-N-Pepa", "song": "Push It", "target": "Salt-N-Pepa - Push It"}
+{"input": "Salt-N-Pepa | Push It | A Salt With A Deadly Pepa", "artist": "Salt-N-Pepa", "song": "Push It", "target": "Salt-N-Pepa - Push It"}
+{"input": "Salt-N-Pepa | Push t | A Salt With A Deadly Pepa", "artist": "Salt-N-Pepa", "song": "Push It", "target": "Salt-N-Pepa - Push It"}
+{"input": "ATAdanis | faeldess", "artist": "Bryan Adams", "song": "Reckless", "target": "Bryan Adams - Reckless"}
+{"input": "Bryan Adams | Reckless", "artist": "Bryan Adams", "song": "Reckless", "target": "Bryan Adams - Reckless"}
+{"input": "Bryan Adlams | Reckless", "artist": "Bryan Adams", "song": "Reckless", "target": "Bryan Adams - Reckless"}
+{"input": "Bryan Adauns | Reckless", "artist": "Bryan Adams", "song": "Reckless", "target": "Bryan Adams - Reckless"}
+{"input": "Bryan | Reckless", "artist": "Bryan Adams", "song": "Reckless", "target": "Bryan Adams - Reckless"}
+{"input": "Bryan Adams | Reckless", "artist": "Bryan Adams", "song": "Reckless", "target": "Bryan Adams - Reckless"}
+{"input": "Biyan Adams | Reckless", "artist": "Bryan Adams", "song": "Reckless", "target": "Bryan Adams - Reckless"}
+{"input": "Bivan Adams | Raeskless", "artist": "Bryan Adams", "song": "Reckless", "target": "Bryan Adams - Reckless"}
+{"input": "pnil | Hether | pdi", "artist": "Slorgio Malode", "song": "Together In Electrio", "target": "Slorgio Malode - Together In Electrio"}
+{"input": "Slorgio Malode | Together In Electrio | Ol", "artist": "Slorgio Malode", "song": "Together In Electrio", "target": "Slorgio Malode - Together In Electrio"}
+{"input": "Phll gaker | Torga mn ejdler | Togechey Jisleetri | DReems | hil Oakey | Garao florbdler", "artist": "Phil Oakey & Giorgio Moroder", "song": "Together In Electric Dreams", "target": "Phil Oakey & Giorgio Moroder - Together In Electric Dreams"}
+{"input": "Phil Oakey  Giurgjo Moroder | Together In Electric Dreams", "artist": "Phil Oakey & Giorgio Moroder", "song": "Together In Electric Dreams", "target": "Phil Oakey & Giorgio Moroder - Together In Electric Dreams"}
+{"input": "Together In Elecyric Dleams | Phil Oeke | Gigriln Moroder", "artist": "Phil Oakey & Giorgio Moroder", "song": "Together In Electric Dreams", "target": "Phil Oakey & Giorgio Moroder - Together In Electric Dreams"}
+{"input": "Gi | Electc Dreams | Phlug", "artist": "Phil Oakey & Giorgio Moroder", "song": "Together In Electric Dreams", "target": "Phil Oakey & Giorgio Moroder - Together In Electric Dreams"}
+{"input": "Weather Girls | Itts Raining Men | Success", "artist": "Weather Girls", "song": "It's Raining Men", "target": "Weather Girls - It's Raining Men"}
+{"input": "Weather Girls | Raining Men | Success", "artist": "Weather Girls", "song": "It's Raining Men", "target": "Weather Girls - It's Raining Men"}
+{"input": "Weather Girls | Success", "artist": "Weather Girls", "song": "It's Raining Men", "target": "Weather Girls - It's Raining Men"}
+{"input": "Weatijer Girls | Success", "artist": "Weather Girls", "song": "It's Raining Men", "target": "Weather Girls - It's Raining Men"}
+{"input": "Ifla | Malw", "artist": "Ifla", "song": "Malwa", "target": "Ifla - Malwa"}
+{"input": "Ifld | Ialu", "artist": "Ifla", "song": "Malwa", "target": "Ifla - Malwa"}
+{"input": "IfUd | llalwu", "artist": "Ifla", "song": "Malwa", "target": "Ifla - Malwa"}
+{"input": "Iflz | Iatu", "artist": "Ifla", "song": "Malwa", "target": "Ifla - Malwa"}
+{"input": "MUVl | MWakur", "artist": "Muv", "song": "Wali Alu", "target": "Muv - Wali Alu"}
+{"input": "Alue | Wali", "artist": "Muv", "song": "Wali Alu", "target": "Muv - Wali Alu"}
+{"input": "llatin | tli", "artist": "Muv", "song": "Wali Alu", "target": "Muv - Wali Alu"}
+{"input": "Weather Girls | success | Raining | Men", "artist": "Weather Girls", "song": "It's Raining Men", "target": "Weather Girls - It's Raining Men"}
+{"input": "Weather Girls | Men | Success | Raining", "artist": "Weather Girls", "song": "It's Raining Men", "target": "Weather Girls - It's Raining Men"}
+{"input": "Weather Girls | Raining Men | Success", "artist": "Weather Girls", "song": "It's Raining Men", "target": "Weather Girls - It's Raining Men"}
+{"input": "Weather Girls | Raining - | Success | Men", "artist": "Weather Girls", "song": "It's Raining Men", "target": "Weather Girls - It's Raining Men"}
+{"input": "Th | Wally | Egyptsn | Diff | Ligile", "artist": "The Bangles", "song": "Walk Like An Egyptian", "target": "The Bangles - Walk Like An Egyptian"}
+{"input": "The | us | Walk | dlean | Diffeken Light", "artist": "The Bangles", "song": "Walk Like An Egyptian", "target": "The Bangles - Walk Like An Egyptian"}
+{"input": "The | Walk | elheks | Differen Light", "artist": "The Bangles", "song": "Walk Like An Egyptian", "target": "The Bangles - Walk Like An Egyptian"}
+{"input": "The Bangles | Walk Like An Egyptian | Different Light", "artist": "The Bangles", "song": "Walk Like An Egyptian", "target": "The Bangles - Walk Like An Egyptian"}
+{"input": "Kim Carnes | Bette Davis Eyes | Mistaken Identity", "artist": "Kim Carnes", "song": "Bette Davis Eyes", "target": "Kim Carnes - Bette Davis Eyes"}
+{"input": "Kim Carnes | Mistaken Identity", "artist": "Kim Carnes", "song": "Bette Davis Eyes", "target": "Kim Carnes - Bette Davis Eyes"}
+{"input": "Kim Carnes | Bette Davis Eyes | Mistaken Iulenticy", "artist": "Kim Carnes", "song": "Bette Davis Eyes", "target": "Kim Carnes - Bette Davis Eyes"}
+{"input": "Kim Carnes | Bette Davis Eyes | Mistaken Idenltity", "artist": "Kim Carnes", "song": "Bette Davis Eyes", "target": "Kim Carnes - Bette Davis Eyes"}
+{"input": "Madonna | Like A Virgin | Like A Virgin", "artist": "Madonna", "song": "Like A Virgin", "target": "Madonna - Like A Virgin"}
+{"input": "Madonna | Like A Virgin | Like A | Virgin", "artist": "Madonna", "song": "Like A Virgin", "target": "Madonna - Like A Virgin"}
+{"input": "Madonna | Like A Virgin | Like A Virgin", "artist": "Madonna", "song": "Like A Virgin", "target": "Madonna - Like A Virgin"}
+{"input": "Madonna | Like A Virgin | Like A | Virgin", "artist": "Madonna", "song": "Like A Virgin", "target": "Madonna - Like A Virgin"}
+{"input": "Madoilla | Like A Virgin | Like A Virgin", "artist": "Madonna", "song": "Like A Virgin", "target": "Madonna - Like A Virgin"}
+{"input": "Madoima | Like A Virgin | Like A Virgin", "artist": "Madonna", "song": "Like A Virgin", "target": "Madonna - Like A Virgin"}
+{"input": "Uta | Aet Dn", "artist": "Uta", "song": "Aet Dn", "target": "Uta - Aet Dn"}
+{"input": "Michael Jacison | Smooth Griminal | Bad", "artist": "Michael Jackson", "song": "Smooth Criminal", "target": "Michael Jackson - Smooth Criminal"}
+{"input": "Michael Jackson | Smooth Criminal | Bad", "artist": "Michael Jackson", "song": "Smooth Criminal", "target": "Michael Jackson - Smooth Criminal"}
+{"input": "Michael Jackson | Yhh | Smooth Criminal | Bad", "artist": "Michael Jackson", "song": "Smooth Criminal", "target": "Michael Jackson - Smooth Criminal"}
+{"input": "Michael Jackson | Bad", "artist": "Michael Jackson", "song": "Smooth Criminal", "target": "Michael Jackson - Smooth Criminal"}
+{"input": "MM chanl | Smoach Gmaulnal | Budi", "artist": "Michael Jackson", "song": "Smooth Criminal", "target": "Michael Jackson - Smooth Criminal"}
+{"input": "Michael Jackson | Smooth Criminal | Bad", "artist": "Michael Jackson", "song": "Smooth Criminal", "target": "Michael Jackson - Smooth Criminal"}
+{"input": "Michacl Jackson | Smouth Grimjnal | Bau", "artist": "Michael Jackson", "song": "Smooth Criminal", "target": "Michael Jackson - Smooth Criminal"}
+{"input": "Hackad | ach eeashunte", "artist": "Michael Jackson", "song": "Smooth Criminal", "target": "Michael Jackson - Smooth Criminal"}
+{"input": "Standau Ballet | Gcld", "artist": "Spandau Ballet", "song": "Gold", "target": "Spandau Ballet - Gold"}
+{"input": "Spandau Ballet | Gold | True", "artist": "Spandau Ballet", "song": "Gold", "target": "Spandau Ballet - Gold"}
+{"input": "Gold | True", "artist": "Spandau Ballet", "song": "Gold", "target": "Spandau Ballet - Gold"}
+{"input": "Spandau Balllet | Gold | True", "artist": "Spandau Ballet", "song": "Gold", "target": "Spandau Ballet - Gold"}
+{"input": "Spandau Ballet | Gold | True", "artist": "Spandau Ballet", "song": "Gold", "target": "Spandau Ballet - Gold"}
+{"input": "Spandau Ballet | True", "artist": "Spandau Ballet", "song": "Gold", "target": "Spandau Ballet - Gold"}
+{"input": "Spandau Ballet | Gold", "artist": "Spandau Ballet", "song": "Gold", "target": "Spandau Ballet - Gold"}
+{"input": "Spandau Ballete | Gold | True", "artist": "Spandau Ballet", "song": "Gold", "target": "Spandau Ballet - Gold"}
+{"input": "amdo | Lrp | Vord Upj", "artist": "Cameo", "song": "Word Up", "target": "Cameo - Word Up"}
+{"input": "Cameo | Vord Up | Vord Up", "artist": "Cameo", "song": "Word Up", "target": "Cameo - Word Up"}
+{"input": "cameo | Word Up | Word Up", "artist": "Cameo", "song": "Word Up", "target": "Cameo - Word Up"}
+{"input": "Gameo | Word Up | Word Up", "artist": "Cameo", "song": "Word Up", "target": "Cameo - Word Up"}
+{"input": "Var | drel V", "artist": "Cameo", "song": "Word Up", "target": "Cameo - Word Up"}
+{"input": "Cameo | WordUp | Word Up", "artist": "Cameo", "song": "Word Up", "target": "Cameo - Word Up"}
+{"input": "Cameo | Word Up | Word Up", "artist": "Cameo", "song": "Word Up", "target": "Cameo - Word Up"}
+{"input": "Gameo | Word Up", "artist": "Cameo", "song": "Word Up", "target": "Cameo - Word Up"}
+{"input": "Micois | Cacta", "artist": "Micois", "song": "Cactus", "target": "Micois - Cactus"}
+{"input": "RickAstley | NeveNGOnna GIVE | Whenever YquNa | D SOM-aud", "artist": "Rick Astley", "song": "Never Gonna Give You Up", "target": "Rick Astley - Never Gonna Give You Up"}
+{"input": "Rick Astley | Never GONNA Give YNuiup | WHENEVER YOUNEED SOMEBOD", "artist": "Rick Astley", "song": "Never Gonna Give You Up", "target": "Rick Astley - Never Gonna Give You Up"}
+{"input": "Rick Astley | WHENEVER YOU NEED SOMEBOD", "artist": "Rick Astley", "song": "Never Gonna Give You Up", "target": "Rick Astley - Never Gonna Give You Up"}
+{"input": "Rick Astley | NEVER GONNA GIVE YOUUP | WHENEVER YOU NEED SOMEBOD", "artist": "Rick Astley", "song": "Never Gonna Give You Up", "target": "Rick Astley - Never Gonna Give You Up"}
+{"input": "Rick Astley | NEVER GONNA GIVZ YOUUP | WHENEVER YouNeed SOMEBODI", "artist": "Rick Astley", "song": "Never Gonna Give You Up", "target": "Rick Astley - Never Gonna Give You Up"}
+{"input": "Rick Astley | NEVER GONNA GIV YOUUP", "artist": "Rick Astley", "song": "Never Gonna Give You Up", "target": "Rick Astley - Never Gonna Give You Up"}
+{"input": "Rick Astley | NEVER GONNA GIVe YOUUP | WHENEVER YoUNEEd SOMEBODI", "artist": "Rick Astley", "song": "Never Gonna Give You Up", "target": "Rick Astley - Never Gonna Give You Up"}
+{"input": "Rick Astley | NEVER GONNA GIve YOUUP | WHENEVER YoUNEed SOMEBODI", "artist": "Rick Astley", "song": "Never Gonna Give You Up", "target": "Rick Astley - Never Gonna Give You Up"}
+{"input": "Gultpre Clul | Karma Chanicleon", "artist": "Culture Club", "song": "Karma Chameleon", "target": "Culture Club - Karma Chameleon"}
+{"input": "Gulture Club | Karma Chameleon | Golour By Numbers", "artist": "Culture Club", "song": "Karma Chameleon", "target": "Culture Club - Karma Chameleon"}
+{"input": "Culture Club | Karma Chamieleon | Colour By Numbers", "artist": "Culture Club", "song": "Karma Chameleon", "target": "Culture Club - Karma Chameleon"}
+{"input": "Culture Club | Karma Chameleon | Colour By Numbers", "artist": "Culture Club", "song": "Karma Chameleon", "target": "Culture Club - Karma Chameleon"}
+{"input": "Culture Club | Karma Chameleon | Colour By Numbers", "artist": "Culture Club", "song": "Karma Chameleon", "target": "Culture Club - Karma Chameleon"}
+{"input": "Culture Club | Karma Chameleon E | Colour By Numbers", "artist": "Culture Club", "song": "Karma Chameleon", "target": "Culture Club - Karma Chameleon"}
+{"input": "Culture Club | Colour By Numbers", "artist": "Culture Club", "song": "Karma Chameleon", "target": "Culture Club - Karma Chameleon"}
+{"input": "Culture Club | Karma Chaneleon | Colour By Numbers", "artist": "Culture Club", "song": "Karma Chameleon", "target": "Culture Club - Karma Chameleon"}
+{"input": "Cli | IennGould Turn Back Time | Heart of Stone", "artist": "Cher", "song": "If I Could Turn Back Time", "target": "Cher - If I Could Turn Back Time"}
+{"input": "Clo | Ifrcould Turn Back Time | Heart of Stone", "artist": "Cher", "song": "If I Could Turn Back Time", "target": "Cher - If I Could Turn Back Time"}
+{"input": "Cher | Heart of Stone", "artist": "Cher", "song": "If I Could Turn Back Time", "target": "Cher - If I Could Turn Back Time"}
+{"input": "Cher | If I Could Turn Back Time | Heart of Stone", "artist": "Cher", "song": "If I Could Turn Back Time", "target": "Cher - If I Could Turn Back Time"}
+{"input": "Cher | Heart of Stone", "artist": "Cher", "song": "Heart of Stone", "target": "Cher - Heart of Stone"}
+{"input": "Cher | If  Could Turn Back Time | Heart of Stone", "artist": "Cher", "song": "Heart of Stone", "target": "Cher - Heart of Stone"}
+{"input": "Cher | Back Time | Heart of Stone | Turi", "artist": "Cher", "song": "Heart of Stone", "target": "Cher - Heart of Stone"}
+{"input": "Cher | Back Time | Heart of Stone", "artist": "Cher", "song": "Heart of Stone", "target": "Cher - Heart of Stone"}
+{"input": "Purple Re | Purple Rall", "artist": "Prince", "song": "Purple Rain", "target": "Prince - Purple Rain"}
+{"input": "Purple Ram | Purple Rain", "artist": "Prince", "song": "Purple Rain", "target": "Prince - Purple Rain"}
+{"input": "Purple Ramn | Purple Rain", "artist": "Prince", "song": "Purple Rain", "target": "Prince - Purple Rain"}
+{"input": "Purple Rain | Purple Rain", "artist": "Prince", "song": "Purple Rain", "target": "Prince - Purple Rain"}
+{"input": "Purple Rain | Purple Rain", "artist": "Prince", "song": "Purple Rain", "target": "Prince - Purple Rain"}
+{"input": "Lipnellrielt | aauol | ane Slot DJow", "artist": "Lionel Richie", "song": "Hello", "target": "Lionel Richie - Hello"}
+{"input": "Lionel Richl | Hello", "artist": "Lionel Richie", "song": "Hello", "target": "Lionel Richie - Hello"}
+{"input": "Lionel Richie | Hello", "artist": "Lionel Richie", "song": "Hello", "target": "Lionel Richie - Hello"}
+{"input": "Lionel Richie | Hello | Down", "artist": "Lionel Richie", "song": "Hello", "target": "Lionel Richie - Hello"}
+{"input": "Libnel Richier | Hello", "artist": "Lionel Richie", "song": "Hello", "target": "Lionel Richie - Hello"}
+{"input": "Libnel Richie | Hello", "artist": "Lionel Richie", "song": "Hello", "target": "Lionel Richie - Hello"}
+{"input": "Lionel Richie | Hello", "artist": "Lionel Richie", "song": "Hello", "target": "Lionel Richie - Hello"}
+{"input": "Lionel Richie | Hello | Down", "artist": "Lionel Richie", "song": "Hello", "target": "Lionel Richie - Hello"}
+{"input": "Van Halen | Jump", "artist": "Van Halen", "song": "Jump", "target": "Van Halen - Jump"}
+{"input": "Van Flalen | Jump", "artist": "Van Halen", "song": "Jump", "target": "Van Halen - Jump"}
+{"input": "Vanl Flalen | Jump", "artist": "Van Halen", "song": "Jump", "target": "Van Halen - Jump"}
+{"input": "Vanl Hlalen | Jump", "artist": "Van Halen", "song": "Jump", "target": "Van Halen - Jump"}
+{"input": "Van Halen | Jump", "artist": "Van Halen", "song": "Jump", "target": "Van Halen - Jump"}
+{"input": "Van Halenl | Jump", "artist": "Van Halen", "song": "Jump", "target": "Van Halen - Jump"}
+{"input": "Van Halel | Jump", "artist": "Van Halen", "song": "Jump", "target": "Van Halen - Jump"}
+{"input": "Van Hale | Jump", "artist": "Van Halen", "song": "Jump", "target": "Van Halen - Jump"}
+{"input": "UNI | Diici", "artist": "Aerosmith", "song": "Walk This Way", "target": "Aerosmith - Walk This Way"}
+{"input": "Ld | Wualls Fhis | Ralsing Hell | Nay", "artist": "Aerosmith", "song": "Walk This Way", "target": "Aerosmith - Walk This Way"}
+{"input": "Ad | HC | Walk This | Hell | Way | Ralsing B", "artist": "Aerosmith", "song": "Walk This Way", "target": "Aerosmith - Walk This Way"}
+{"input": "Huce | Walk This Way | Hell | Raising", "artist": "Aerosmith", "song": "Walk This Way", "target": "Aerosmith - Walk This Way"}
+{"input": "KZUN | UMIC", "artist": "KZUN", "song": "UMIC", "target": "KZUN - UMIC"}
+{"input": "KZUN | INIc", "artist": "KZUN", "song": "UMIC", "target": "KZUN - UMIC"}
+{"input": "Walk This | Hell | Way", "artist": "Aerosmith", "song": "Walk This Way", "target": "Aerosmith - Walk This Way"}
+{"input": "Walk This | Raising Hell | Way", "artist": "Aerosmith", "song": "Walk This Way", "target": "Aerosmith - Walk This Way"}
+{"input": "Walk This | Hell | Way | Raising B", "artist": "Aerosmith", "song": "Walk This Way", "target": "Aerosmith - Walk This Way"}
+{"input": "Walk This Way | Raising Hell", "artist": "Aerosmith", "song": "Walk This Way", "target": "Aerosmith - Walk This Way"}
+{"input": "Bonin | Total Eelipse Or Yhe Heart | Faster Than The Speedof Night", "artist": "Bonnie Tyler", "song": "Total Eclipse Of The Heart", "target": "Bonnie Tyler - Total Eclipse Of The Heart"}
+{"input": "Bonnle Tyler | Total Eclipse Of The Heart | Faster Than The Speed Of Night", "artist": "Bonnie Tyler", "song": "Total Eclipse Of The Heart", "target": "Bonnie Tyler - Total Eclipse Of The Heart"}
+{"input": "Bonnie Tyler | Total Eclipse Of The Heart | Faster Than The Speed Of Night", "artist": "Bonnie Tyler", "song": "Total Eclipse Of The Heart", "target": "Bonnie Tyler - Total Eclipse Of The Heart"}
+{"input": "Bonnie Tyler | Total Eclipse Of The Hleart | Faster Than The Speed Of Night", "artist": "Bonnie Tyler", "song": "Total Eclipse Of The Heart", "target": "Bonnie Tyler - Total Eclipse Of The Heart"}
+{"input": "Bonnle Tyler | Total", "artist": "Bonnie Tyler", "song": "Total Eclipse Of The Heart", "target": "Bonnie Tyler - Total Eclipse Of The Heart"}
+{"input": "Bonnle Tyler | Total Eclipse Of The Heart | Faster Than The Speed Of Night", "artist": "Bonnie Tyler", "song": "Total Eclipse Of The Heart", "target": "Bonnie Tyler - Total Eclipse Of The Heart"}
+{"input": "Bonnie Tyler | Total Eclipse Of The Heart | Faster Than The Speed Of Night", "artist": "Bonnie Tyler", "song": "Total Eclipse Of The Heart", "target": "Bonnie Tyler - Total Eclipse Of The Heart"}
+{"input": "Bonnie Tyler | Total Eclipse Of The Heart | Faster Than Tile Speed Of Niyit", "artist": "Bonnie Tyler", "song": "Total Eclipse Of The Heart", "target": "Bonnie Tyler - Total Eclipse Of The Heart"}
+{"input": "Qugon | Radio Ga Ga | The Wozks", "artist": "Queen", "song": "Radio Ga Ga", "target": "Queen - Radio Ga Ga"}
+{"input": "Quoon | Radio Ga Ga | WWorks | The", "artist": "Queen", "song": "Radio Ga Ga", "target": "Queen - Radio Ga Ga"}
+{"input": "Queen | Radio Ga Ga | The Works", "artist": "Queen", "song": "Radio Ga Ga", "target": "Queen - Radio Ga Ga"}
+{"input": "Queei | Radio Ga Gja | The Works", "artist": "Queen", "song": "Radio Ga Ga", "target": "Queen - Radio Ga Ga"}
+{"input": "Queen | Radio Ga Gal | The Works", "artist": "Queen", "song": "Radio Ga Ga", "target": "Queen - Radio Ga Ga"}
+{"input": "Queen | Radio Gar Gia | The Works", "artist": "Queen", "song": "Radio Ga Ga", "target": "Queen - Radio Ga Ga"}
+{"input": "Queen | Radio Ga Ga | The Works", "artist": "Queen", "song": "Radio Ga Ga", "target": "Queen - Radio Ga Ga"}
+{"input": "Queen | Radio Ga Gja | The Works", "artist": "Queen", "song": "Radio Ga Ga", "target": "Queen - Radio Ga Ga"}
+{"input": "TELEvISIO | so", "artist": "So", "song": "Televisio", "target": "So - Televisio"}
+{"input": "Cyndl LjUf er | Gicls Just Wlant Tc h | Sher | ol | Qutauall", "artist": "Cyndi Lauper", "song": "Girls Just Want To Have Fun", "target": "Cyndi Lauper - Girls Just Want To Have Fun"}
+{"input": "Cyndi Lauper | Girls Just Want To Have Fun | She | So Unusual", "artist": "Cyndi Lauper", "song": "Girls Just Want To Have Fun", "target": "Cyndi Lauper - Girls Just Want To Have Fun"}
+{"input": "Cyndi Lauper | Girls Just Want To Have Fun", "artist": "Cyndi Lauper", "song": "Girls Just Want To Have Fun", "target": "Cyndi Lauper - Girls Just Want To Have Fun"}
+{"input": "Cyndi Lauper | Girls Just Want To | Fun | Have", "artist": "Cyndi Lauper", "song": "Girls Just Want To Have Fun", "target": "Cyndi Lauper - Girls Just Want To Have Fun"}
+{"input": "Cyndi Lauper | Girls Just Want To Have Fun", "artist": "Cyndi Lauper", "song": "Girls Just Want To Have Fun", "target": "Cyndi Lauper - Girls Just Want To Have Fun"}
+{"input": "Cyndi Lauper | Girls Just Wanit To Hlaye Fun", "artist": "Cyndi Lauper", "song": "Girls Just Want To Have Fun", "target": "Cyndi Lauper - Girls Just Want To Have Fun"}
+{"input": "Cyndi Lauper | Girls Just Want To Flaye Fun", "artist": "Cyndi Lauper", "song": "Girls Just Want To Have Fun", "target": "Cyndi Lauper - Girls Just Want To Have Fun"}
+{"input": "Girls Just WYant To Hlave Fun | Lauper", "artist": "Cyndi Lauper", "song": "Girls Just Want To Have Fun", "target": "Cyndi Lauper - Girls Just Want To Have Fun"}
+{"input": "Whitney Houston | IWanna Dance With Somebody | Whitney", "artist": "Whitney Houston", "song": "I Wanna Dance With Somebody", "target": "Whitney Houston - I Wanna Dance With Somebody"}
+{"input": "Whitney Houston | Wanna Dance With Somebody | Whitney", "artist": "Whitney Houston", "song": "I Wanna Dance With Somebody", "target": "Whitney Houston - I Wanna Dance With Somebody"}
+{"input": "Whitney Houston | Wanna Dance With Somebody", "artist": "Whitney Houston", "song": "I Wanna Dance With Somebody", "target": "Whitney Houston - I Wanna Dance With Somebody"}
+{"input": "Whitney Houston | Wanna Dance With Somebody | Whitney EN", "artist": "Whitney Houston", "song": "I Wanna Dance With Somebody", "target": "Whitney Houston - I Wanna Dance With Somebody"}
+{"input": "ChnSL | WGO", "artist": "Gju G", "song": "Wake Me Up Before You Go-Go", "target": "Gju G - Wake Me Up Before You Go-Go"}
+{"input": "Whaml | Wakele Up Befefel | Gju G | Makellt Blg", "artist": "Gju G", "song": "Wake Me Up Before You Go-Go", "target": "Gju G - Wake Me Up Before You Go-Go"}
+{"input": "Wake Me Up Befere  You  Gu Go | Make It Big", "artist": "Gju G", "song": "Wake Me Up Before You Go-Go", "target": "Gju G - Wake Me Up Before You Go-Go"}
+{"input": "Wake Me UpBefere You Go Gjo | Make It Big", "artist": "Gju G", "song": "Wake Me Up Before You Go-Go", "target": "Gju G - Wake Me Up Before You Go-Go"}
+{"input": "Gabriel | Sledgehamiler | Pater", "artist": "Peter Gabriel", "song": "Sledgehammer", "target": "Peter Gabriel - Sledgehammer"}
+{"input": "Peter Gabriel | Sledgehammer | So", "artist": "Peter Gabriel", "song": "Sledgehammer", "target": "Peter Gabriel - Sledgehammer"}
+{"input": "Peter Gabriel | Sledgehanmer | So", "artist": "Peter Gabriel", "song": "Sledgehammer", "target": "Peter Gabriel - Sledgehammer"}
+{"input": "Peter Gabriel | Sledgeiammer | So", "artist": "Peter Gabriel", "song": "Sledgehammer", "target": "Peter Gabriel - Sledgehammer"}
+{"input": "Peter Gabriol | Sledgehamimer", "artist": "Peter Gabriel", "song": "Sledgehammer", "target": "Peter Gabriel - Sledgehammer"}
+{"input": "Peter Gabriel | Sledgehammer | So", "artist": "Peter Gabriel", "song": "Sledgehammer", "target": "Peter Gabriel - Sledgehammer"}
+{"input": "Peter Gabriel | Sledgehairmer | So", "artist": "Peter Gabriel", "song": "Sledgehammer", "target": "Peter Gabriel - Sledgehammer"}
+{"input": "Peter Gabriel | Sledgehaimer", "artist": "Peter Gabriel", "song": "Sledgehammer", "target": "Peter Gabriel - Sledgehammer"}
+{"input": "Michael Tackaon | Billie Jean | THRILLER", "artist": "Michael Jackson", "song": "Billie Jean", "target": "Michael Jackson - Billie Jean"}
+{"input": "Michael Jackson | Billie Jear | THRILLEI", "artist": "Michael Jackson", "song": "Billie Jean", "target": "Michael Jackson - Billie Jean"}
+{"input": "Michael Jackson | Billie Jeal | THRILLEH", "artist": "Michael Jackson", "song": "Billie Jean", "target": "Michael Jackson - Billie Jean"}
+{"input": "Michael Jackson | Billie Jear | THRILLEH", "artist": "Michael Jackson", "song": "Billie Jean", "target": "Michael Jackson - Billie Jean"}
+{"input": "DIIIle | Jo", "artist": "Billie Eilish", "song": "Billie Jean", "target": "Billie Eilish - Billie Jean"}
+{"input": "Billie | Ja", "artist": "Billie Eilish", "song": "Billie Jean", "target": "Billie Eilish - Billie Jean"}
+{"input": "Billie | Jel", "artist": "Billie Eilish", "song": "Billie Jean", "target": "Billie Eilish - Billie Jean"}
+{"input": "Billle | Je", "artist": "Billie Eilish", "song": "Billie Jean", "target": "Billie Eilish - Billie Jean"}
+{"input": "Michael Jackson | Billie Jean | THRILLER", "artist": "Michael Jackson", "song": "Billie Jean", "target": "Michael Jackson - Billie Jean"}
+{"input": "Michael Jackson | Billie Jean | THRILLEI", "artist": "Michael Jackson", "song": "Billie Jean", "target": "Michael Jackson - Billie Jean"}
+{"input": "Michael Jackson | Billie Jea | THRILLEI", "artist": "Michael Jackson", "song": "Billie Jean", "target": "Michael Jackson - Billie Jean"}
+{"input": "Michael Mickson | Billie Jea | THRILLET", "artist": "Michael Jackson", "song": "Billie Jean", "target": "Michael Jackson - Billie Jean"}
+{"input": "Eurychmics | SWEET DREAMS | SweET DREAMS Tare MADE OF Ti", "artist": "Eurythmics", "song": "Sweet Dreams (Are Made of This)", "target": "Eurythmics - Sweet Dreams (Are Made of This)"}
+{"input": "Eurythmics | SWEET DREAMS", "artist": "Eurythmics", "song": "Sweet Dreams (Are Made of This)", "target": "Eurythmics - Sweet Dreams (Are Made of This)"}
+{"input": "MB | Wleamaeteee", "artist": "Eurythmics", "song": "Sweet Dreams (Are Made of This)", "target": "Eurythmics - Sweet Dreams (Are Made of This)"}
+{"input": "Eurythmics | SWEET DREAMS", "artist": "Eurythmics", "song": "Sweet Dreams", "target": "Eurythmics - Sweet Dreams"}
+{"input": "Eurythmlcs | SWEET DREAMS", "artist": "Eurythmics", "song": "Sweet Dreams", "target": "Eurythmics - Sweet Dreams"}
+{"input": "LeEOnLEs | WHunet EAEeos FelE Uaoe Eete", "artist": "Eurythmics", "song": "Sweet Dreams", "target": "Eurythmics - Sweet Dreams"}
+{"input": "aed | Sna | that some viewers", "artist": "Adele", "song": "Someone Like You", "target": "Adele - Someone Like You"}
+{"input": "Iai | that some viewers", "artist": "Adele", "song": "Someone Like You", "target": "Adele - Someone Like You"}
+{"input": "Jn | A inccnn | that some viewers", "artist": "Adele", "song": "Someone Like You", "target": "Adele - Someone Like You"}
+{"input": "Undd | TagyUOed | that some viewers", "artist": "Adele", "song": "Someone Like You", "target": "Adele - Someone Like You"}
+{"input": "Naclutinal | Ja | Pfay | tane", "artist": "Natalie", "song": "Jaitane", "target": "Natalie - Jaitane"}
+{"input": "Madonna | Like A Prayer | Like A Prayer", "artist": "Madonna", "song": "Like A Prayer", "target": "Madonna - Like A Prayer"}
+{"input": "Madonna | Like A Prayer | Like A | Prayer", "artist": "Madonna", "song": "Like A Prayer", "target": "Madonna - Like A Prayer"}
+{"input": "Madoiia | Like A Prayer | Like A Prayer", "artist": "Madonna", "song": "Like A Prayer", "target": "Madonna - Like A Prayer"}
+{"input": "Ua | Madonna | Like A Prayer | Like A Prayer", "artist": "Madonna", "song": "Like A Prayer", "target": "Madonna - Like A Prayer"}
+{"input": "Hu | elel Elieie Low", "artist": "a-ha", "song": "Take On Me", "target": "a-ha - Take On Me"}
+{"input": "a-ha | O Me | Take", "artist": "a-ha", "song": "Take On Me", "target": "a-ha - Take On Me"}
+{"input": "a-ha | Take OMe", "artist": "a-ha", "song": "Take On Me", "target": "a-ha - Take On Me"}
+{"input": "a-ha | Take Om Me", "artist": "a-ha", "song": "Take On Me", "target": "a-ha - Take On Me"}
+{"input": "Tate On Me | Hin | Hle | Fatingj", "artist": "a-ha", "song": "Take On Me", "target": "a-ha - Take On Me"}
+{"input": "d-qa | Tale On Me", "artist": "a-ha", "song": "Take On Me", "target": "a-ha - Take On Me"}
+{"input": "a-ha | Take On Me", "artist": "a-ha", "song": "Take On Me", "target": "a-ha - Take On Me"}
+{"input": "a-ha | On Me | Take", "artist": "a-ha", "song": "Take On Me", "target": "a-ha - Take On Me"}
+{"input": "Go West | We Close Our eyes | Go", "artist": "Go West", "song": "We Close Our Eyes", "target": "Go West - We Close Our Eyes"}
+{"input": "Go West | We Close Our Eyes", "artist": "Go West", "song": "We Close Our Eyes", "target": "Go West - We Close Our Eyes"}
+{"input": "Go West | We Close Our Eyes | Go", "artist": "Go West", "song": "We Close Our Eyes", "target": "Go West - We Close Our Eyes"}
+{"input": "We Close Our Eyes | Go", "artist": "Go West", "song": "We Close Our Eyes", "target": "Go West - We Close Our Eyes"}
+{"input": "Gd West | We Close Our Eyes | Go", "artist": "Gd West", "song": "We Close Our Eyes", "target": "Gd West - We Close Our Eyes"}
+{"input": "Gd West | We close Our Eyes | Go", "artist": "Gd West", "song": "We Close Our Eyes", "target": "Gd West - We Close Our Eyes"}
+{"input": "Go | We | Our Eyes | West", "artist": "Gd West", "song": "We Close Our Eyes", "target": "Gd West - We Close Our Eyes"}
+{"input": "Go | We Close Our Eyes | West", "artist": "Gd West", "song": "We Close Our Eyes", "target": "Gd West - We Close Our Eyes"}
+{"input": "Fu | Wuds -", "artist": "Fu", "song": "Call Me Go", "target": "Fu - Call Me Go"}
+{"input": "Wes | Go | Knerl", "artist": "Fu", "song": "Call Me Go", "target": "Fu - Call Me Go"}
+{"input": "Go Wes | Call Me | Go | Wauds | Kutrl", "artist": "Fu", "song": "Call Me Go", "target": "Fu - Call Me Go"}
+{"input": "Call Me | Go", "artist": "Fu", "song": "Call Me Go", "target": "Fu - Call Me Go"}
+{"input": "WC | Store V", "artist": "WC", "song": "Store V", "target": "WC - Store V"}
+{"input": "Kc | VtoreW", "artist": "WC", "song": "Store V", "target": "WC - Store V"}
+{"input": "NC | VroreW", "artist": "WC", "song": "Store V", "target": "WC - Store V"}
+{"input": "Ao | Vrore V", "artist": "WC", "song": "Store V", "target": "WC - Store V"}
+{"input": "Mume | KMlo", "artist": "Mumford & Sons", "song": "Little Lion Man", "target": "Mumford & Sons - Little Lion Man"}
+{"input": "Mlu | Kuuln", "artist": "Mumford & Sons", "song": "Little Lion Man", "target": "Mumford & Sons - Little Lion Man"}
+{"input": "Wuod | Mums", "artist": "Mumford & Sons", "song": "Little Lion Man", "target": "Mumford & Sons - Little Lion Man"}
+{"input": "Dn | Wuds t", "artist": "Mumford & Sons", "song": "Little Lion Man", "target": "Mumford & Sons - Little Lion Man"}
+{"input": "WAuds | Aerl", "artist": "Aerosmith", "song": "Dream On", "target": "Aerosmith - Dream On"}
+{"input": "MAuds | Alrl", "artist": "Aerosmith", "song": "Dream On", "target": "Aerosmith - Dream On"}
+{"input": "On | MAuds t | Ker", "artist": "Aerosmith", "song": "Dream On", "target": "Aerosmith - Dream On"}
+{"input": "WNds | UlRL", "artist": "Aerosmith", "song": "Dream On", "target": "Aerosmith - Dream On"}
+{"input": "in | Wi | on", "artist": "Koufu", "song": "War", "target": "Koufu - War"}
+{"input": "War | K Juc L | Pop", "artist": "Koufu", "song": "War", "target": "Koufu - War"}
+{"input": "Tranisiun Jams | War | Kouf Lut | Pop", "artist": "Koufu", "song": "War", "target": "Koufu - War"}
+{"input": "War | LJI | Pop", "artist": "Koufu", "song": "War", "target": "Koufu - War"}
+{"input": "Transvision Vamp | Want Your Love | Art | Pop", "artist": "Transvision Vamp", "song": "Want Your Love", "target": "Transvision Vamp - Want Your Love"}
+{"input": "Transvision | Want Your Love | Art | Vamp | Pop", "artist": "Transvision Vamp", "song": "Want Your Love", "target": "Transvision Vamp - Want Your Love"}
+{"input": "Transvision Vamp | Want Your Love | Art", "artist": "Transvision Vamp", "song": "Want Your Love", "target": "Transvision Vamp - Want Your Love"}
+{"input": "Transvision Vamp | Want Your Love | Pop Art", "artist": "Transvision Vamp", "song": "Want Your Love", "target": "Transvision Vamp - Want Your Love"}
+{"input": "Transvislon Yamp | Velveteen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Transvisln VFmp | Velveteen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Transvisjunl Namp | Velveceen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Transvisiun Vamp | Velyereen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Transvlsjul Valmp | Velveteen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Transvisl Valmp | Velveteen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Transvision | Velvetee", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Velveteen | VJejmp", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Hanat Jackson | control", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | Control", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | Awhile | Control", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Uets Melta | Kademal", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "lackson | Wait Awhile | on", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janer Jackson | Wait Awhile | Contro", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janer Jackson | Contro", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | Control", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Ia | Tson | uhen | Trhink of You | Ouroll", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | WhenaThink of You | Dntrol", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | Ontrol", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | Control | You", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | Control", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | Conjtrol", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Janet Jackson | Conitrol", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "Ica | Janet Jackson | Control", "artist": "Janet Jackson", "song": "Control", "target": "Janet Jackson - Control"}
+{"input": "ehapuo | Ist Gaf | Kueytkpmen", "artist": "Tracy Chapman", "song": "Fast Car", "target": "Tracy Chapman - Fast Car"}
+{"input": "Chapman | Fast Car | Chapman | Tiacy | Tiagy", "artist": "Tracy Chapman", "song": "Fast Car", "target": "Tracy Chapman - Fast Car"}
+{"input": "Chapman | Fast Car | Chapman | Tracy | Tracy", "artist": "Tracy Chapman", "song": "Fast Car", "target": "Tracy Chapman - Fast Car"}
+{"input": "Chapman | Fast Car | Chapman | Tracy", "artist": "Tracy Chapman", "song": "Fast Car", "target": "Tracy Chapman - Fast Car"}
+{"input": "Ghapman | Fast Gar | Chapian | ciracy", "artist": "Tracy Chapman", "song": "Fast Car", "target": "Tracy Chapman - Fast Car"}
+{"input": "Chapman | Fast Car | Chapman | Tracy | Tracy", "artist": "Tracy Chapman", "song": "Fast Car", "target": "Tracy Chapman - Fast Car"}
+{"input": "Fast Car | Chapman | Tracy | Tracy", "artist": "Tracy Chapman", "song": "Fast Car", "target": "Tracy Chapman - Fast Car"}
+{"input": "Fast Car | Tracy Chapman | Tracy", "artist": "Tracy Chapman", "song": "Fast Car", "target": "Tracy Chapman - Fast Car"}
+{"input": "Tracy Chopman | Trac  Chapman", "artist": "Tracy Chapman", "song": "Tracy Chapman", "target": "Tracy Chapman - Tracy Chapman"}
+{"input": "Chapman | Chapman | Tracy | Tracy", "artist": "Tracy Chapman", "song": "Tracy Chapman", "target": "Tracy Chapman - Tracy Chapman"}
+{"input": "Tracy | Tracy", "artist": "Tracy Chapman", "song": "Tracy Chapman", "target": "Tracy Chapman - Tracy Chapman"}
+{"input": "Tracy Chapman | Tracy", "artist": "Tracy Chapman", "song": "Tracy Chapman", "target": "Tracy Chapman - Tracy Chapman"}
+{"input": "chaman | TaCy | Hragy", "artist": "Tracy Chapman", "song": "Tracy Chapman", "target": "Tracy Chapman - Tracy Chapman"}
+{"input": "Chapman | Chapman | Tracy | Tracy", "artist": "Tracy Chapman", "song": "Tracy Chapman", "target": "Tracy Chapman - Tracy Chapman"}
+{"input": "Chapman | Tracy | Tracy", "artist": "Tracy Chapman", "song": "Tracy Chapman", "target": "Tracy Chapman - Tracy Chapman"}
+{"input": "Tracy Chapman | Tracy Chapman", "artist": "Tracy Chapman", "song": "Tracy Chapman", "target": "Tracy Chapman - Tracy Chapman"}
+{"input": "FOOLSH BEti | AUT", "artist": "HF Blue", "song": "Foolish Beat", "target": "HF Blue - Foolish Beat"}
+{"input": "FFooLISH BEatI | HF BLUE", "artist": "HF Blue", "song": "Foolish Beat", "target": "HF Blue - Foolish Beat"}
+{"input": "FOOLISH BEAT | QuI Of THE BLUE", "artist": "HF Blue", "song": "Foolish Beat", "target": "HF Blue - Foolish Beat"}
+{"input": "FOOLISH BEATi | QutOFTHE BLUE", "artist": "HF Blue", "song": "Foolish Beat", "target": "HF Blue - Foolish Beat"}
+{"input": "ater L Anti | Alt", "artist": "Lana Del Rey", "song": "A&W", "target": "Lana Del Rey - A&W"}
+{"input": "Flitt | Ktef LIne", "artist": "Lana Del Rey", "song": "A&W", "target": "Lana Del Rey - A&W"}
+{"input": "ehaln | acme LOd", "artist": "Lana Del Rey", "song": "A&W", "target": "Lana Del Rey - A&W"}
+{"input": "KAFIF Lant | lli", "artist": "Lana Del Rey", "song": "A&W", "target": "Lana Del Rey - A&W"}
+{"input": "Dal | FOOLISH BEAT | QUIOf THEALUE", "artist": "Debbie Gibson", "song": "Out Of The Blue", "target": "Debbie Gibson - Out Of The Blue"}
+{"input": "FOOLIsH BEAT | Ou Or THRALUE", "artist": "Debbie Gibson", "song": "Out Of The Blue", "target": "Debbie Gibson - Out Of The Blue"}
+{"input": "Debbhe gibso | Out Of The BLUE", "artist": "Debbie Gibson", "song": "Out Of The Blue", "target": "Debbie Gibson - Out Of The Blue"}
+{"input": "Debbhe gibso | Out Of ThE BLUE", "artist": "Debbie Gibson", "song": "Out Of The Blue", "target": "Debbie Gibson - Out Of The Blue"}
+{"input": "Dabble Gibson | Lost in Your Eyes | GREATEST HITS", "artist": "Debbie Gibson", "song": "Lost in Your Eyes", "target": "Debbie Gibson - Lost in Your Eyes"}
+{"input": "Debble Gibson | Lost in Your Eyes | GREATEST HITS", "artist": "Debbie Gibson", "song": "Lost in Your Eyes", "target": "Debbie Gibson - Lost in Your Eyes"}
+{"input": "Debbie Gibson | Lost in Your Eyes | GREATEST HITS", "artist": "Debbie Gibson", "song": "Lost in Your Eyes", "target": "Debbie Gibson - Lost in Your Eyes"}
+{"input": "Lost in Your Eyes | GREATEST HITS", "artist": "Debbie Gibson", "song": "Lost in Your Eyes", "target": "Debbie Gibson - Lost in Your Eyes"}
+{"input": "Dabble Gibsd | Lost in Yous | GREATEST", "artist": "Debbie Gibson", "song": "Lost in Your Eyes", "target": "Debbie Gibson - Lost in Your Eyes"}
+{"input": "Debbie Gibson | Lost in | Bes | GREATEST HIS | Yourt", "artist": "Debbie Gibson", "song": "Lost in Your Eyes", "target": "Debbie Gibson - Lost in Your Eyes"}
+{"input": "Debbie Gibson | Lost in | Eves | GREATEST HITS | Your", "artist": "Debbie Gibson", "song": "Lost in Your Eyes", "target": "Debbie Gibson - Lost in Your Eyes"}
+{"input": "Debbie Gibson | Lost in | Eves | GREATEST HItS | Your", "artist": "Debbie Gibson", "song": "Lost in Your Eyes", "target": "Debbie Gibson - Lost in Your Eyes"}
+{"input": "Dura | Duran | Planet Eareh | Duran Duran", "artist": "Duran Duran", "song": "Planet Earth", "target": "Duran Duran - Planet Earth"}
+{"input": "Duran Duran | Planet Earth | Duran Duran", "artist": "Duran Duran", "song": "Planet Earth", "target": "Duran Duran - Planet Earth"}
+{"input": "Duran Duran | Planet Earth", "artist": "Duran Duran", "song": "Planet Earth", "target": "Duran Duran - Planet Earth"}
+{"input": "Duran Duran | Planet Earth | Duran Durail", "artist": "Duran Duran", "song": "Planet Earth", "target": "Duran Duran - Planet Earth"}
+{"input": "F Ju | UU OU Q M", "artist": "Fugees", "song": "Killing Me Softly", "target": "Fugees - Killing Me Softly"}
+{"input": "Tu | eneyit | Gu", "artist": "Fugees", "song": "Killing Me Softly", "target": "Fugees - Killing Me Softly"}
+{"input": "Iau | ncit | Gu", "artist": "Fugees", "song": "Killing Me Softly", "target": "Fugees - Killing Me Softly"}
+{"input": "Edue | aacit | GU", "artist": "Fugees", "song": "Killing Me Softly", "target": "Fugees - Killing Me Softly"}
+{"input": "Dura | Planel Zar sij | Jicji", "artist": "Daddy Yankee", "song": "Dura", "target": "Daddy Yankee - Dura"}
+{"input": "Planet Zartil | Dulraji Dur", "artist": "Daddy Yankee", "song": "Dura", "target": "Daddy Yankee - Dura"}
+{"input": "Dura Dufj | Plamet Zartil", "artist": "Daddy Yankee", "song": "Dura", "target": "Daddy Yankee - Dura"}
+{"input": "Duran Dural | Planet Eartil | Durai Dur", "artist": "Daddy Yankee", "song": "Dura", "target": "Daddy Yankee - Dura"}
+{"input": "Duran Duran | New Moon On Mendar | Srvan Andfrhe Ragged Tlge", "artist": "Duran Duran", "song": "New Moon On Monday", "target": "Duran Duran - New Moon On Monday"}
+{"input": "Duran Duran | New Moon On Monday | Seven And The Ragged Tiger", "artist": "Duran Duran", "song": "New Moon On Monday", "target": "Duran Duran - New Moon On Monday"}
+{"input": "Duran Duran | New Moon On Monday | Seven And The Ragged Tlger", "artist": "Duran Duran", "song": "New Moon On Monday", "target": "Duran Duran - New Moon On Monday"}
+{"input": "Duran Duran | New Moon On Monday | Seven And The Ragged | Tiger", "artist": "Duran Duran", "song": "New Moon On Monday", "target": "Duran Duran - New Moon On Monday"}
+{"input": "Duran Duran | New | On Monday | Seven And The Ragged | Moon | Tiger", "artist": "Duran Duran", "song": "New Moon On Monday", "target": "Duran Duran - New Moon On Monday"}
+{"input": "Duran Duran | New Moon On Monday | Seven And The Ragged | Tiger", "artist": "Duran Duran", "song": "New Moon On Monday", "target": "Duran Duran - New Moon On Monday"}
+{"input": "Duran Duran | New Moon On Monday | Tiger", "artist": "Duran Duran", "song": "New Moon On Monday", "target": "Duran Duran - New Moon On Monday"}
+{"input": "Duran Duran | New Moon On Monday | Seven And The Ragged Tiger", "artist": "Duran Duran", "song": "New Moon On Monday", "target": "Duran Duran - New Moon On Monday"}
+{"input": "Matlonna | Papa pbnti e | Trie BLUE", "artist": "Madonna", "song": "True Blue", "target": "Madonna - True Blue"}
+{"input": "Madonna | TRIe BLUE", "artist": "Madonna", "song": "True Blue", "target": "Madonna - True Blue"}
+{"input": "Madonna | TRUE BLUE", "artist": "Madonna", "song": "True Blue", "target": "Madonna - True Blue"}
+{"input": "Madonna | TRUE BLUE | Papal", "artist": "Madonna", "song": "True Blue", "target": "Madonna - True Blue"}
+{"input": "Madonna | TRUE BLUE", "artist": "Madonna", "song": "True Blue", "target": "Madonna - True Blue"}
+{"input": "Madonna | Papa Don t Preach | TRUE BLUE", "artist": "Madonna", "song": "True Blue", "target": "Madonna - True Blue"}
+{"input": "Madonna | Papa Dont Preach | TRUE BLUE", "artist": "Madonna", "song": "True Blue", "target": "Madonna - True Blue"}
+{"input": "Seeeleneine | Keaetlnssieieeenearatilioio Eiotl", "artist": "Selena", "song": "Killin' Me Softly", "target": "Selena - Killin' Me Softly"}
+{"input": "Jdine | Snteiti | adtfirnleetdlt | Seteiotee E iteretdattifaln", "artist": "Jdine", "song": "Sentimental", "target": "Jdine - Sentimental"}
+{"input": "pliaauBoli | AEsoluce Kenflnnete | htasolute", "artist": "David Bowie", "song": "Absolute Beginners", "target": "David Bowie - Absolute Beginners"}
+{"input": "David Bowie | Absolute Beginners", "artist": "David Bowie", "song": "Absolute Beginners", "target": "David Bowie - Absolute Beginners"}
+{"input": "David Buwie | Absoluce Beginners", "artist": "David Bowie", "song": "Absolute Beginners", "target": "David Bowie - Absolute Beginners"}
+{"input": "David Buwie | Absolute Beginners", "artist": "David Bowie", "song": "Absolute Beginners", "target": "David Bowie - Absolute Beginners"}
+{"input": "Ondd | REASE", "artist": "Owl City", "song": "Fireflies", "target": "Owl City - Fireflies"}
+{"input": "REAsE | Owdr", "artist": "Owl City", "song": "Fireflies", "target": "Owl City - Fireflies"}
+{"input": "aeASe | Owori", "artist": "Owl City", "song": "Fireflies", "target": "Owl City - Fireflies"}
+{"input": "alease | Ondri", "artist": "Owl City", "song": "Fireflies", "target": "Owl City - Fireflies"}
+{"input": "Al | PLBTALk", "artist": "Al", "song": "Pulp Fiction", "target": "Al - Pulp Fiction"}
+{"input": "Au | KESTAUK", "artist": "Al", "song": "Pulp Fiction", "target": "Al - Pulp Fiction"}
+{"input": "David Bowie | Absolute Beginners", "artist": "David Bowie", "song": "Absolute Beginners", "target": "David Bowie - Absolute Beginners"}
+{"input": "David Bowje | Absolute Beginners", "artist": "David Bowie", "song": "Absolute Beginners", "target": "David Bowie - Absolute Beginners"}
+{"input": "Davie Bowje | Absolute Begiers", "artist": "David Bowie", "song": "Absolute Beginners", "target": "David Bowie - Absolute Beginners"}
+{"input": "Davie Bowije | Absolute Begiuers", "artist": "David Bowie", "song": "Absolute Beginners", "target": "David Bowie - Absolute Beginners"}
+{"input": "David Bowle | Marlern Love | Dance", "artist": "David Bowie", "song": "Modern Love", "target": "David Bowie - Modern Love"}
+{"input": "Davld Bowie | Modern Love", "artist": "David Bowie", "song": "Modern Love", "target": "David Bowie - Modern Love"}
+{"input": "David Bowle | Modern Love", "artist": "David Bowie", "song": "Modern Love", "target": "David Bowie - Modern Love"}
+{"input": "David Bowie | Modern Love", "artist": "David Bowie", "song": "Modern Love", "target": "David Bowie - Modern Love"}
+{"input": "David Bowio | Madern Love | Ldets Dance", "artist": "David Bowie", "song": "Modern Love", "target": "David Bowie - Modern Love"}
+{"input": "David Bowie | Modern Love", "artist": "David Bowie", "song": "Modern Love", "target": "David Bowie - Modern Love"}
+{"input": "Davld Bowle | Modern Love", "artist": "David Bowie", "song": "Modern Love", "target": "David Bowie - Modern Love"}
+{"input": "Aaee | ndii | Ftaltie", "artist": "David Bowie", "song": "Modern Love", "target": "David Bowie - Modern Love"}
+{"input": "Afl Bollns | Sn The Kic Tonighe | Face Value", "artist": "Phil Collins", "song": "In The Air Tonight", "target": "Phil Collins - In The Air Tonight"}
+{"input": "Phll Colllns | In The Air Tonight | Face Value", "artist": "Phil Collins", "song": "In The Air Tonight", "target": "Phil Collins - In The Air Tonight"}
+{"input": "Phil Collins | In The Air Tonight | Face Value", "artist": "Phil Collins", "song": "In The Air Tonight", "target": "Phil Collins - In The Air Tonight"}
+{"input": "Sarth Ktatlins | VEeeteadl", "artist": "Phil Collins", "song": "In The Air Tonight", "target": "Phil Collins - In The Air Tonight"}
+{"input": "Ahll Collins | In The Air Tonight | Face Value", "artist": "Phil Collins", "song": "In The Air Tonight", "target": "Phil Collins - In The Air Tonight"}
+{"input": "Phll Collins | In The Air Tonight | Face Value", "artist": "Phil Collins", "song": "In The Air Tonight", "target": "Phil Collins - In The Air Tonight"}
+{"input": "Phil Collins | In The Air Tonight | Face Value", "artist": "Phil Collins", "song": "In The Air Tonight", "target": "Phil Collins - In The Air Tonight"}
+{"input": "aii | Sneaeenattiene | Sada", "artist": "Phil Collins", "song": "In The Air Tonight", "target": "Phil Collins - In The Air Tonight"}
+{"input": "FataGtlt | StiaeLe", "artist": "Phil Collins", "song": "Two Hearts", "target": "Phil Collins - Two Hearts"}
+{"input": "Phll Collins | Two Hear | Buster | undtrack", "artist": "Phil Collins", "song": "Two Hearts", "target": "Phil Collins - Two Hearts"}
+{"input": "Phil Collins | Two Hearti | Buster | undurack", "artist": "Phil Collins", "song": "Two Hearts", "target": "Phil Collins - Two Hearts"}
+{"input": "Phil Collins | Two Hearts | Buster | undtrack", "artist": "Phil Collins", "song": "Two Hearts", "target": "Phil Collins - Two Hearts"}
+{"input": "LO | eto | MAIL", "artist": "Lo Fi", "song": "Mail", "target": "Lo Fi - Mail"}
+{"input": "Fo | CIu | MAIL", "artist": "Lo Fi", "song": "Mail", "target": "Lo Fi - Mail"}
+{"input": "Lo | Cu | MAIL", "artist": "Lo Fi", "song": "Mail", "target": "Lo Fi - Mail"}
+{"input": "Fo | Cu | MAIL", "artist": "Lo Fi", "song": "Mail", "target": "Lo Fi - Mail"}
+{"input": "Phil Gollius e | Two Hearts | Buster | Soundtrack", "artist": "Phil Collins", "song": "Two Hearts", "target": "Phil Collins - Two Hearts"}
+{"input": "Phil collins | Two Hearts | Buster | Soundtrack", "artist": "Phil Collins", "song": "Two Hearts", "target": "Phil Collins - Two Hearts"}
+{"input": "Phil Collins | Two Hearts | Buster | Soundtrack", "artist": "Phil Collins", "song": "Two Hearts", "target": "Phil Collins - Two Hearts"}
+{"input": "Phil Collins s | Two Hearts | Buster | Soundtrack", "artist": "Phil Collins", "song": "Two Hearts", "target": "Phil Collins - Two Hearts"}
+{"input": "STYLE counC | APRIL", "artist": "Style Council", "song": "Walls Come Tumbling Down", "target": "Style Council - Walls Come Tumbling Down"}
+{"input": "WNals Cole Tlrna dinig | ur | WVOnfai | Ahon", "artist": "Style Council", "song": "Walls Come Tumbling Down", "target": "Style Council - Walls Come Tumbling Down"}
+{"input": "Walls Come Tumbling | Our Favourite | Shop", "artist": "Style Council", "song": "Walls Come Tumbling Down", "target": "Style Council - Walls Come Tumbling Down"}
+{"input": "The Style Councjl | Our Favourite | Shop", "artist": "Style Council", "song": "Walls Come Tumbling Down", "target": "Style Council - Walls Come Tumbling Down"}
+{"input": "The Style Council | Walls Come | Our Favourite | Shop", "artist": "The Style Council", "song": "Walls Come Tumbling Down", "target": "The Style Council - Walls Come Tumbling Down"}
+{"input": "The Style Councii | Our Favourite | Shop", "artist": "The Style Council", "song": "Walls Come Tumbling Down", "target": "The Style Council - Walls Come Tumbling Down"}
+{"input": "The Style Cquncil | Walls Come | Qur Favourite | Shop", "artist": "The Style Council", "song": "Walls Come Tumbling Down", "target": "The Style Council - Walls Come Tumbling Down"}
+{"input": "ILA | ILINBRADZHA", "artist": "ILA", "song": "ILINBRADZHA", "target": "ILA - ILINBRADZHA"}
+{"input": "Hl | STILINBRADZKA", "artist": "ILA", "song": "ILINBRADZHA", "target": "ILA - ILINBRADZHA"}
+{"input": "HL | TILINGRADZKA", "artist": "ILA", "song": "ILINBRADZHA", "target": "ILA - ILINBRADZHA"}
+{"input": "ILL | ST ALINGRADZKA", "artist": "ILA", "song": "ILINBRADZHA", "target": "ILA - ILINBRADZHA"}
+{"input": "The Styyle Council | ujbling Downl | Our Favgurlte | Ishop", "artist": "The Style Council", "song": "Our Favourite Shop", "target": "The Style Council - Our Favourite Shop"}
+{"input": "The Style Council | Walls Cpie Tumbling Downt | Our Favourite Shop", "artist": "The Style Council", "song": "Our Favourite Shop", "target": "The Style Council - Our Favourite Shop"}
+{"input": "The Style Council | Our Favourite Shop", "artist": "The Style Council", "song": "Our Favourite Shop", "target": "The Style Council - Our Favourite Shop"}
+{"input": "The Style Council | Our Favourite Stiop", "artist": "The Style Council", "song": "Our Favourite Shop", "target": "The Style Council - Our Favourite Shop"}
+{"input": "ThiStyle Colt | Suie releas", "artist": "The Style Council", "song": "Soul Deep", "target": "The Style Council - Soul Deep"}
+{"input": "The Style Couny | SE | Tue | Suigie releas", "artist": "The Style Council", "song": "Soul Deep", "target": "The Style Council - Soul Deep"}
+{"input": "The Style Counvi | Sigle releas", "artist": "The Style Council", "song": "Soul Deep", "target": "The Style Council - Soul Deep"}
+{"input": "The Style Counvil | Sigle release", "artist": "The Style Council", "song": "Soul Deep", "target": "The Style Council - Soul Deep"}
+{"input": "MeW | Slngle", "artist": "The Style Council", "song": "Shout", "target": "The Style Council - Shout"}
+{"input": "Shoue | Mopil | Single released", "artist": "The Style Council", "song": "Shout", "target": "The Style Council - Shout"}
+{"input": "The Style concill | Shout | Mopl | Single released", "artist": "The Style Council", "song": "Shout", "target": "The Style Council - Shout"}
+{"input": "The | Coupcil | Single released", "artist": "The Style Council", "song": "Shout", "target": "The Style Council - Shout"}
+{"input": "Breken Wings | elcume To The Real World", "artist": "Wings", "song": "Broken Wings", "target": "Wings - Broken Wings"}
+{"input": "Droken | Welcome To The Real World | Wings", "artist": "Wings", "song": "Broken Wings", "target": "Wings - Broken Wings"}
+{"input": "Broken | Welcome To The Real World | Wings", "artist": "Wings", "song": "Broken Wings", "target": "Wings - Broken Wings"}
+{"input": "Broken Wings | Welcome To The Real World", "artist": "Wings", "song": "Broken Wings", "target": "Wings - Broken Wings"}
+{"input": "Culv | Latel | Tuo", "artist": "Culv", "song": "Late Night Talking", "target": "Culv - Late Night Talking"}
+{"input": "Liv | Latel | Ho", "artist": "Culv", "song": "Late Night Talking", "target": "Culv - Late Night Talking"}
+{"input": "Cul | Qab | Laaci", "artist": "Culv", "song": "Late Night Talking", "target": "Culv - Late Night Talking"}
+{"input": "Guy | Qted | Li | Latel | Tae", "artist": "Culv", "song": "Late Night Talking", "target": "Culv - Late Night Talking"}
+{"input": "Dreken | Welcone To Tiie Real World | Ylines", "artist": "Dreken", "song": "Welcome To The Real World", "target": "Dreken - Welcome To The Real World"}
+{"input": "Mister | Brokenl | Welcole To Tiie Real World | Wlings", "artist": "Dreken", "song": "Welcome To The Real World", "target": "Dreken - Welcome To The Real World"}
+{"input": "Broken | Welcome To Tije Heal World | Wings", "artist": "Dreken", "song": "Welcome To The Real World", "target": "Dreken - Welcome To The Real World"}
+{"input": "Broken | Welcole To Tie Real World | Wings", "artist": "Dreken", "song": "Welcome To The Real World", "target": "Dreken - Welcome To The Real World"}
+{"input": "Kyrie | Welcome To The Real World", "artist": "Mr. Mister", "song": "Kyrie", "target": "Mr. Mister - Kyrie"}
+{"input": "Kyrje | Welcoine To The Real World", "artist": "Mr. Mister", "song": "Kyrie", "target": "Mr. Mister - Kyrie"}
+{"input": "Kyrie | Welcome To The Real World", "artist": "Mr. Mister", "song": "Kyrie", "target": "Mr. Mister - Kyrie"}
+{"input": "Mr Mister | Kyrie | Welcome To The Real World", "artist": "Mr. Mister", "song": "Kyrie", "target": "Mr. Mister - Kyrie"}
+{"input": "Kyrie | Welcome To The Real Wor", "artist": "Mr. Mister", "song": "Kyrie", "target": "Mr. Mister - Kyrie"}
+{"input": "Michael Jackson | Diity Diana | Bad", "artist": "Michael Jackson", "song": "Dirty Diana", "target": "Michael Jackson - Dirty Diana"}
+{"input": "Michael Jackson | Diana | Bad | Dirty", "artist": "Michael Jackson", "song": "Dirty Diana", "target": "Michael Jackson - Dirty Diana"}
+{"input": "Michael Jackson | Diana | Bad", "artist": "Michael Jackson", "song": "Dirty Diana", "target": "Michael Jackson - Dirty Diana"}
+{"input": "Michael Jackson | Dirty Diana | Bad", "artist": "Michael Jackson", "song": "Dirty Diana", "target": "Michael Jackson - Dirty Diana"}
+{"input": "Michael Jackson | Diana | Bad | Dirty", "artist": "Michael Jackson", "song": "Dirty Diana", "target": "Michael Jackson - Dirty Diana"}
+{"input": "Michael Jackson | Dirty Diana | Bad", "artist": "Michael Jackson", "song": "Dirty Diana", "target": "Michael Jackson - Dirty Diana"}
+{"input": "Michael Jackson | Diana | Bad", "artist": "Michael Jackson", "song": "Dirty Diana", "target": "Michael Jackson - Dirty Diana"}
+{"input": "Michael Jackson | Diana | Bad | pirty", "artist": "Michael Jackson", "song": "Dirty Diana", "target": "Michael Jackson - Dirty Diana"}
+{"input": "Michael Jeckson | Man In he Mirror | Bade", "artist": "Michael Jackson", "song": "Man In The Mirror", "target": "Michael Jackson - Man In The Mirror"}
+{"input": "Michael Jackson | Manin The Mirror | Bade", "artist": "Michael Jackson", "song": "Man In The Mirror", "target": "Michael Jackson - Man In The Mirror"}
+{"input": "Michael Jackson | Man In The Mirror | Bad", "artist": "Michael Jackson", "song": "Man In The Mirror", "target": "Michael Jackson - Man In The Mirror"}
+{"input": "Michael Jackson | Man In The Mirror", "artist": "Michael Jackson", "song": "Man In The Mirror", "target": "Michael Jackson - Man In The Mirror"}
+{"input": "Mlat | KUMUe", "artist": "Mlat", "song": "KUMUe", "target": "Mlat - KUMUe"}
+{"input": "lu | Uk | Kali", "artist": "Mlat", "song": "KUMUe", "target": "Mlat - KUMUe"}
+{"input": "Nalteel Alnd | Wi", "artist": "Natalie Imbruglia", "song": "Torn", "target": "Natalie Imbruglia - Torn"}
+{"input": "TO | uuec | tie | Fe", "artist": "Natalie Imbruglia", "song": "Torn", "target": "Natalie Imbruglia - Torn"}
+{"input": "Lidt | FTu | Klnt | Qu | Oloa", "artist": "Natalie Imbruglia", "song": "Torn", "target": "Natalie Imbruglia - Torn"}
+{"input": "MO | ahtntlnt | aoa | IUC", "artist": "Natalie Imbruglia", "song": "Torn", "target": "Natalie Imbruglia - Torn"}
+{"input": "PI | WACANE", "artist": "PI", "song": "WACANE", "target": "PI - WACANE"}
+{"input": "LI E | MACANT", "artist": "PI", "song": "WACANE", "target": "PI - WACANE"}
+{"input": "bugl | OPPEENE | WACANT", "artist": "PI", "song": "WACANE", "target": "PI - WACANE"}
+{"input": "Bulldl | FOPEN | MACANT", "artist": "PI", "song": "WACANE", "target": "PI - WACANE"}
+{"input": "Michael Jacksom | Man In The Mirror | Bad", "artist": "Michael Jackson", "song": "Man In The Mirror", "target": "Michael Jackson - Man In The Mirror"}
+{"input": "Michael Jackson | Man In TThe Mirror | Bad", "artist": "Michael Jackson", "song": "Man In The Mirror", "target": "Michael Jackson - Man In The Mirror"}
+{"input": "Man In The Mirror | Bad", "artist": "Michael Jackson", "song": "Man In The Mirror", "target": "Michael Jackson - Man In The Mirror"}
+{"input": "Michael Jackson | Man In | Mirror | Bad | The", "artist": "Michael Jackson", "song": "Man In The Mirror", "target": "Michael Jackson - Man In The Mirror"}
+{"input": "Blgjelle | Yoiic | EatTo The Beat", "artist": "Blondie", "song": "Eat To The Beat", "target": "Blondie - Eat To The Beat"}
+{"input": "Bloudie | Atomic | Eat To The Beat", "artist": "Blondie", "song": "Eat To The Beat", "target": "Blondie - Eat To The Beat"}
+{"input": "Blbidie | Atoniic | Eat To The Beat", "artist": "Blondie", "song": "Eat To The Beat", "target": "Blondie - Eat To The Beat"}
+{"input": "Blbjlie | Atomic | Eat To The Beat", "artist": "Blondie", "song": "Eat To The Beat", "target": "Blondie - Eat To The Beat"}
+{"input": "Zl | IdwKiI", "artist": "Zl", "song": "IdwKiI", "target": "Zl - IdwKiI"}
+{"input": "FG | OoJuiis", "artist": "Zl", "song": "IdwKiI", "target": "Zl - IdwKiI"}
+{"input": "oNUN | JIcV", "artist": "Zl", "song": "IdwKiI", "target": "Zl - IdwKiI"}
+{"input": "onin | Jisu", "artist": "Zl", "song": "IdwKiI", "target": "Zl - IdwKiI"}
+{"input": "Amic | Eacto The Beaf", "artist": "Blondie", "song": "Eat To The Beat", "target": "Blondie - Eat To The Beat"}
+{"input": "Mc | Eat To The Beat | ilu", "artist": "Blondie", "song": "Eat To The Beat", "target": "Blondie - Eat To The Beat"}
+{"input": "BluiJle | Atdil | Eat To The Beat", "artist": "Blondie", "song": "Eat To The Beat", "target": "Blondie - Eat To The Beat"}
+{"input": "Blui le | Atomiic | Eat To The Beat", "artist": "Blondie", "song": "Eat To The Beat", "target": "Blondie - Eat To The Beat"}
+{"input": "Blondle | Rapture | Autoamerican", "artist": "Blondie", "song": "Rapture", "target": "Blondie - Rapture"}
+{"input": "Blondie | Rapture | Autoamerican", "artist": "Blondie", "song": "Rapture", "target": "Blondie - Rapture"}
+{"input": "Blondie | Rapture | Autoamnerican", "artist": "Blondie", "song": "Rapture", "target": "Blondie - Rapture"}
+{"input": "Blondie | Rapture | Autoanerican", "artist": "Blondie", "song": "Rapture", "target": "Blondie - Rapture"}
+{"input": "Blondie | Rapture | Autoamerican", "artist": "Blondie", "song": "Rapture", "target": "Blondie - Rapture"}
+{"input": "Blondle | Rapture | Autoamerican", "artist": "Blondie", "song": "Rapture", "target": "Blondie - Rapture"}
+{"input": "Blondie | Rapture", "artist": "Blondie", "song": "Rapture", "target": "Blondie - Rapture"}
+{"input": "Busl | Jpds UfLove", "artist": "Kate Bush", "song": "Cloudbusting", "target": "Kate Bush - Cloudbusting"}
+{"input": "Kate Bush | pudbusting | Hounds Of Love", "artist": "Kate Bush", "song": "Cloudbusting", "target": "Kate Bush - Cloudbusting"}
+{"input": "Kate Bush | Cludbusting | Hounds Of Love", "artist": "Kate Bush", "song": "Cloudbusting", "target": "Kate Bush - Cloudbusting"}
+{"input": "Kate Bush | Cloudbusting | Hounds Of Love", "artist": "Kate Bush", "song": "Cloudbusting", "target": "Kate Bush - Cloudbusting"}
+{"input": "Imi | Matu | Imrat", "artist": "Immi", "song": "Matu", "target": "Immi - Matu"}
+{"input": "Hnmal | Badnu", "artist": "Immi", "song": "Matu", "target": "Immi - Matu"}
+{"input": "oiaI | EeGtu", "artist": "Immi", "song": "Matu", "target": "Immi - Matu"}
+{"input": "mmai | mno | TA", "artist": "Immi", "song": "Matu", "target": "Immi - Matu"}
+{"input": "RAIN | LOCN", "artist": "Rain Man", "song": "LOCN", "target": "Rain Man - LOCN"}
+{"input": "RAIN MAA | LOCH", "artist": "Rain Man", "song": "LOCN", "target": "Rain Man - LOCN"}
+{"input": "MFL | RAN | LOCA", "artist": "Rain Man", "song": "LOCN", "target": "Rain Man - LOCN"}
+{"input": "MAE | RAN | LOCA", "artist": "Rain Man", "song": "LOCN", "target": "Rain Man - LOCN"}
+{"input": "Kate Bush | loudbusting", "artist": "Kate Bush", "song": "Cloudbusting", "target": "Kate Bush - Cloudbusting"}
+{"input": "Kate Bush | cloudbusting | Hounds Of Love", "artist": "Kate Bush", "song": "Cloudbusting", "target": "Kate Bush - Cloudbusting"}
+{"input": "cloudbusting | Hounds Of M | Love", "artist": "Kate Bush", "song": "Cloudbusting", "target": "Kate Bush - Cloudbusting"}
+{"input": "Kate Bush | Cloudbusting | Hounds Of Love", "artist": "Kate Bush", "song": "Cloudbusting", "target": "Kate Bush - Cloudbusting"}
+{"input": "Sat In Your Lap | tfie Dreeyminy", "artist": "Kate Bush", "song": "Sat In Your Lap", "target": "Kate Bush - Sat In Your Lap"}
+{"input": "Sat In Your Lap | The Dreaminy", "artist": "Kate Bush", "song": "Sat In Your Lap", "target": "Kate Bush - Sat In Your Lap"}
+{"input": "Kate Bush | Sat In Your Lap | Tiie Drejminy", "artist": "Kate Bush", "song": "Sat In Your Lap", "target": "Kate Bush - Sat In Your Lap"}
+{"input": "Kate Bush | Sat In Your Lap | Tiie Dresminy", "artist": "Kate Bush", "song": "Sat In Your Lap", "target": "Kate Bush - Sat In Your Lap"}
+{"input": "Bus | Your | ap", "artist": "Kate Bush", "song": "Sat In Your Lap", "target": "Kate Bush - Sat In Your Lap"}
+{"input": "Kata Bush | Sat | Your Lap | Tie Dreaming", "artist": "Kate Bush", "song": "Sat In Your Lap", "target": "Kate Bush - Sat In Your Lap"}
+{"input": "Kalta Bush | Sat h Your Lap | Tiie Dreaming", "artist": "Kate Bush", "song": "Sat In Your Lap", "target": "Kate Bush - Sat In Your Lap"}
+{"input": "Kate Busil | Sat In Your Lap | The Dreaming", "artist": "Kate Bush", "song": "Sat In Your Lap", "target": "Kate Bush - Sat In Your Lap"}
+{"input": "We | Llarea", "artist": "We", "song": "Llarea", "target": "We - Llarea"}
+{"input": "The Pollce | Every Litele | ohe Doetts Ma | Ghosts In | Machine | Sthing | he", "artist": "The Police", "song": "Every Little She Does Is Magic", "target": "The Police - Every Little She Does Is Magic"}
+{"input": "The Pollce | Every Little | She Does Is Mat | Ghosts In The Machine", "artist": "The Police", "song": "Every Little She Does Is Magic", "target": "The Police - Every Little She Does Is Magic"}
+{"input": "The Police | Every Little | She Does Is Mar | Ghosts In The Machine", "artist": "The Police", "song": "Every Little She Does Is Magic", "target": "The Police - Every Little She Does Is Magic"}
+{"input": "The Police | Every Little | She Does Is Mac | Ghosts In The Machine", "artist": "The Police", "song": "Every Little She Does Is Magic", "target": "The Police - Every Little She Does Is Magic"}
+{"input": "The Pollce | Every Little | She Does Is Mac | Ghosts In Tha Mad", "artist": "The Police", "song": "Every Little Thing She Does Is Magic", "target": "The Police - Every Little Thing She Does Is Magic"}
+{"input": "The Pollce | Every Little | She Does Is Mac | Ghosts In The Machine | Thing", "artist": "The Police", "song": "Every Little Thing She Does Is Magic", "target": "The Police - Every Little Thing She Does Is Magic"}
+{"input": "The Police | Every Little Thing She Does Is Mac | Ghosts In The Machine", "artist": "The Police", "song": "Every Little Thing She Does Is Magic", "target": "The Police - Every Little Thing She Does Is Magic"}
+{"input": "The Police | Every Little | She Does Is Mac | Ghosts In The Machine | Thing", "artist": "The Police", "song": "Every Little Thing She Does Is Magic", "target": "The Police - Every Little Thing She Does Is Magic"}
+{"input": "Thie Dollce | Wrapped Around Your Finger | Synchronicity", "artist": "The Police", "song": "Wrapped Around Your Finger", "target": "The Police - Wrapped Around Your Finger"}
+{"input": "The Pollce | Wrapped Around Your Finger | Synchronicity", "artist": "The Police", "song": "Wrapped Around Your Finger", "target": "The Police - Wrapped Around Your Finger"}
+{"input": "The Police | Wrapped Around Your | Synchronicity | Finger", "artist": "The Police", "song": "Wrapped Around Your Finger", "target": "The Police - Wrapped Around Your Finger"}
+{"input": "The Police | Synchronicity | Finger", "artist": "The Police", "song": "Wrapped Around Your Finger", "target": "The Police - Wrapped Around Your Finger"}
+{"input": "The Police | Wrapped Around Your | Synchronicity | Finger", "artist": "The Police", "song": "Wrapped Around Your Finger", "target": "The Police - Wrapped Around Your Finger"}
+{"input": "The Police | Wrapped Around Your Finger | Synchronicity", "artist": "The Police", "song": "Wrapped Around Your Finger", "target": "The Police - Wrapped Around Your Finger"}
+{"input": "The Police | Synchronicity | Finger", "artist": "The Police", "song": "Wrapped Around Your Finger", "target": "The Police - Wrapped Around Your Finger"}
+{"input": "The Police | Wrapped Around Your L | Synchronicity | Finger", "artist": "The Police", "song": "Wrapped Around Your Finger", "target": "The Police - Wrapped Around Your Finger"}
+{"input": "ABBA | The Wimier Takes E All | Super frouper", "artist": "ABBA", "song": "Super Trouper", "target": "ABBA - Super Trouper"}
+{"input": "ABBA | Super frouper", "artist": "ABBA", "song": "Super Trouper", "target": "ABBA - Super Trouper"}
+{"input": "ABBA | The Winer Takes E All | Super Trouper", "artist": "ABBA", "song": "Super Trouper", "target": "ABBA - Super Trouper"}
+{"input": "ABBA | Super Trouper", "artist": "ABBA", "song": "Super Trouper", "target": "ABBA - Super Trouper"}
+{"input": "ABBA | The Winner Takes Ie Al | Super Trouper", "artist": "ABBA", "song": "The Winner Takes It All", "target": "ABBA - The Winner Takes It All"}
+{"input": "ABBA | The Winner Takes It AlI | Super Trouper", "artist": "ABBA", "song": "The Winner Takes It All", "target": "ABBA - The Winner Takes It All"}
+{"input": "ABBA | The Winner Takes It All | Super Trouper", "artist": "ABBA", "song": "The Winner Takes It All", "target": "ABBA - The Winner Takes It All"}
+{"input": "ABBA | The Winner Takes It All | Super | Trouper", "artist": "ABBA", "song": "The Winner Takes It All", "target": "ABBA - The Winner Takes It All"}
+{"input": "Jbba | aun | Ele Uiste | psio", "artist": "ABBA", "song": "One Of Us", "target": "ABBA - One Of Us"}
+{"input": "ABBA | One Of Us | The Visitors | pSio", "artist": "ABBA", "song": "One Of Us", "target": "ABBA - One Of Us"}
+{"input": "ABBA | One Of Us | The Visitors | pNo", "artist": "ABBA", "song": "One Of Us", "target": "ABBA - One Of Us"}
+{"input": "ABBA | One Of Us | The Visitors | pSJO", "artist": "ABBA", "song": "One Of Us", "target": "ABBA - One Of Us"}
+{"input": "Uv | Uandhala", "artist": "U2", "song": "With or Without You", "target": "U2 - With or Without You"}
+{"input": "VW | Mandhol OC", "artist": "U2", "song": "With or Without You", "target": "U2 - With or Without You"}
+{"input": "TTE UINE | AlT | LW", "artist": "U2", "song": "With or Without You", "target": "U2 - With or Without You"}
+{"input": "TTE UINE | Al", "artist": "U2", "song": "With or Without You", "target": "U2 - With or Without You"}
+{"input": "ABBA | One Of Us | The Visitors", "artist": "ABBA", "song": "One Of Us", "target": "ABBA - One Of Us"}
+{"input": "ABBA | One Of Us | Ihe Visitors", "artist": "ABBA", "song": "One Of Us", "target": "ABBA - One Of Us"}
+{"input": "Miboiv | CLcIS", "artist": "Miley Cyrus", "song": "Climb", "target": "Miley Cyrus - Climb"}
+{"input": "Unce | Stun | The Times", "artist": "Prince", "song": "The Times", "target": "Prince - The Times"}
+{"input": "Prince | Times", "artist": "Prince", "song": "The Times", "target": "Prince - The Times"}
+{"input": "Prince | Times | Times", "artist": "Prince", "song": "The Times", "target": "Prince - The Times"}
+{"input": "Kneeeche Times | Sune  ine", "artist": "Prince", "song": "The Times", "target": "Prince - The Times"}
+{"input": "Aj | WU | Hm", "artist": "AJ", "song": "WU WN WCW", "target": "AJ - WU WN WCW"}
+{"input": "WUC | WN WCW", "artist": "AJ", "song": "WU WN WCW", "target": "AJ - WU WN WCW"}
+{"input": "Ma | AWeu | Wl", "artist": "AJ", "song": "WU WN WCW", "target": "AJ - WU WN WCW"}
+{"input": "JDOREL | Jl", "artist": "AJ", "song": "WU WN WCW", "target": "AJ - WU WN WCW"}
+{"input": "Sl | Prince", "artist": "Prince", "song": "The Times", "target": "Prince - The Times"}
+{"input": "Prince | The Times", "artist": "Prince", "song": "The Times", "target": "Prince - The Times"}
+{"input": "Ua | Prince", "artist": "Prince", "song": "The Times", "target": "Prince - The Times"}
+{"input": "Tui | Prince", "artist": "Prince", "song": "The Times", "target": "Prince - The Times"}
+{"input": "Pcince | GIRLS GND Boys | PAanoe", "artist": "Prince", "song": "Girls and Boys", "target": "Prince - Girls and Boys"}
+{"input": "PrInca | GIaLs AND BOYS | PARADE", "artist": "Prince", "song": "Girls and Boys", "target": "Prince - Girls and Boys"}
+{"input": "Prince | GIRLS AND BOYS | PARADE", "artist": "Prince", "song": "Girls and Boys", "target": "Prince - Girls and Boys"}
+{"input": "Prince | PARADE", "artist": "Prince", "song": "Girls and Boys", "target": "Prince - Girls and Boys"}
+{"input": "Ai | AND BoYS | AM", "artist": "Prince", "song": "Girls and Boys", "target": "Prince - Girls and Boys"}
+{"input": "Prince | GIRLS AND BOYS | PARADE", "artist": "Prince", "song": "Girls and Boys", "target": "Prince - Girls and Boys"}
+{"input": "GIRLS AND BOYS | PARADE", "artist": "Prince", "song": "Girls and Boys", "target": "Prince - Girls and Boys"}
+{"input": "Prince | PARADE", "artist": "Prince", "song": "Girls and Boys", "target": "Prince - Girls and Boys"}
+{"input": "hicois | CLne", "artist": "Chic", "song": "Le Freak", "target": "Chic - Le Freak"}
+{"input": "AFE | ajenjyuills | IRan | A notk", "artist": "A Flock of Seagulls", "song": "I Ran", "target": "A Flock of Seagulls - I Ran"}
+{"input": "IRam | A Flock of Seagulls", "artist": "A Flock of Seagulls", "song": "I Ran", "target": "A Flock of Seagulls - I Ran"}
+{"input": "AFluck Of Seagulls | IRam | AFlockof Seagulls", "artist": "A Flock of Seagulls", "song": "I Ran", "target": "A Flock of Seagulls - I Ran"}
+{"input": "AFlock Of Seagulls | IRam | AFlock of Seagulls", "artist": "A Flock of Seagulls", "song": "I Ran", "target": "A Flock of Seagulls - I Ran"}
+{"input": "AFlock Of Seagulls | Rant | A Flock | Seagulls", "artist": "A Flock of Seagulls", "song": "I Ran", "target": "A Flock of Seagulls - I Ran"}
+{"input": "AFlock Of Seagulls | IRan | A Flock af Seagulls", "artist": "A Flock of Seagulls", "song": "I Ran", "target": "A Flock of Seagulls - I Ran"}
+{"input": "A Flock Of Seagulls | Ran | Flock of Seagulls", "artist": "A Flock of Seagulls", "song": "I Ran", "target": "A Flock of Seagulls - I Ran"}
+{"input": "AFlock Of Seagulls | IRan | AFlock of Seagulls", "artist": "A Flock of Seagulls", "song": "I Ran", "target": "A Flock of Seagulls - I Ran"}
+{"input": "Flocl Of Seagulls | ten", "artist": "A Flock Of Seagulls", "song": "Listen", "target": "A Flock Of Seagulls - Listen"}
+{"input": "Flock Of Seagulls | Isten", "artist": "A Flock Of Seagulls", "song": "Listen", "target": "A Flock Of Seagulls - Listen"}
+{"input": "Flock Of Seagulls | Listen", "artist": "A Flock Of Seagulls", "song": "Listen", "target": "A Flock Of Seagulls - Listen"}
+{"input": "A Flock Of Seagulls | Listen", "artist": "A Flock Of Seagulls", "song": "Listen", "target": "A Flock Of Seagulls - Listen"}
+{"input": "AFlock Of Seagulls | Listen", "artist": "A Flock Of Seagulls", "song": "Listen", "target": "A Flock Of Seagulls - Listen"}
+{"input": "A Flock Of Seagulls | Listen", "artist": "A Flock Of Seagulls", "song": "Listen", "target": "A Flock Of Seagulls - Listen"}
+{"input": "Spandau Ballet | True | True", "artist": "Spandau Ballet", "song": "True", "target": "Spandau Ballet - True"}
+{"input": "Stiandau Dallat | True | Hrue", "artist": "Spandau Ballet", "song": "True", "target": "Spandau Ballet - True"}
+{"input": "Su | Ballet | Tr", "artist": "Spandau Ballet", "song": "True", "target": "Spandau Ballet - True"}
+{"input": "Spandau Ballet | Trve | Trt", "artist": "Spandau Ballet", "song": "True", "target": "Spandau Ballet - True"}
+{"input": "Spandau Ballet | True | True", "artist": "Spandau Ballet", "song": "True", "target": "Spandau Ballet - True"}
+{"input": "True | True", "artist": "Spandau Ballet", "song": "True", "target": "Spandau Ballet - True"}
+{"input": "Spandau Ballet | Dlamond", "artist": "Spandau Ballet", "song": "Diamond", "target": "Spandau Ballet - Diamond"}
+{"input": "Spandau Ballet | Diamond", "artist": "Spandau Ballet", "song": "Diamond", "target": "Spandau Ballet - Diamond"}
+{"input": "Spandau Ballet | Pres | Diamond", "artist": "Spandau Ballet", "song": "Diamond", "target": "Spandau Ballet - Diamond"}
+{"input": "Sed | Kafnan Need Chis Aret | eaeie", "artist": "Spandau Ballet", "song": "Diamond", "target": "Spandau Ballet - Diamond"}
+{"input": "Bros | Too Much", "artist": "Bros", "song": "Too Much", "target": "Bros - Too Much"}
+{"input": "Bros | Tob Much", "artist": "Bros", "song": "Too Much", "target": "Bros - Too Much"}
+{"input": "Bros | Tdo Much", "artist": "Bros", "song": "Too Much", "target": "Bros - Too Much"}
+{"input": "Bros | Much | Too", "artist": "Bros", "song": "Too Much", "target": "Bros - Too Much"}
+{"input": "Uder | Tu | Yt | WI", "artist": "Uder", "song": "Tu Yt | Ivory di War", "target": "Uder - Tu Yt | Ivory di War"}
+{"input": "Enoily | Jvory", "artist": "Uder", "song": "Tu Yt | Ivory di War", "target": "Uder - Tu Yt | Ivory di War"}
+{"input": "di War | Ebily | Jvory", "artist": "Uder", "song": "Tu Yt | Ivory di War", "target": "Uder - Tu Yt | Ivory di War"}
+{"input": "Ebuiy | lvor", "artist": "Uder", "song": "Tu Yt | Ivory di War", "target": "Uder - Tu Yt | Ivory di War"}
+{"input": "Tug of War | Toy", "artist": "Paul McCartney", "song": "Tug of War", "target": "Paul McCartney - Tug of War"}
+{"input": "Tug of War | EIvory", "artist": "Paul McCartney", "song": "Tug of War", "target": "Paul McCartney - Tug of War"}
+{"input": "Tug of War | AIvory", "artist": "Paul McCartney", "song": "Tug of War", "target": "Paul McCartney - Tug of War"}
+{"input": "Tug of War | Ivory", "artist": "Paul McCartney", "song": "Tug of War", "target": "Paul McCartney - Tug of War"}
+{"input": "Ieni | Chrisen", "artist": "Chris Brown", "song": "Chris Brown", "target": "Chris Brown - Chris Brown"}
+{"input": "Deaac | Chrisen", "artist": "Chris Brown", "song": "Chris Brown", "target": "Chris Brown - Chris Brown"}
+{"input": "Ietac | Christn", "artist": "Chris Brown", "song": "Chris Brown", "target": "Chris Brown - Chris Brown"}
+{"input": "TitS | Chrise", "artist": "Chris Brown", "song": "Chris Brown", "target": "Chris Brown - Chris Brown"}
+{"input": "Pipes of Peace | Pipes of Peace", "artist": "Paul McCartney", "song": "Pipes of Peace", "target": "Paul McCartney - Pipes of Peace"}
+{"input": "Paul McCarthey | Pipes of Peace", "artist": "Paul McCartney", "song": "Pipes of Peace", "target": "Paul McCartney - Pipes of Peace"}
+{"input": "TAu | Iu | At | Nnc", "artist": "T-Pain", "song": "Buy U a Drank", "target": "T-Pain - Buy U a Drank"}
+{"input": "PNn | a cty | ai", "artist": "T-Pain", "song": "Buy U a Drank", "target": "T-Pain - Buy U a Drank"}
+{"input": "Fl | Pna | altt | et | av", "artist": "T-Pain", "song": "Buy U a Drank", "target": "T-Pain - Buy U a Drank"}
+{"input": "ont | vay | ATet | Av", "artist": "T-Pain", "song": "Buy U a Drank", "target": "T-Pain - Buy U a Drank"}
+{"input": "ML | Ain | Oe", "artist": "ML", "song": "Ain't No Mountain High Enough", "target": "ML - Ain't No Mountain High Enough"}
+{"input": "Kuioe | Otto", "artist": "ML", "song": "Ain't No Mountain High Enough", "target": "ML - Ain't No Mountain High Enough"}
+{"input": "Ksitc | alir", "artist": "ML", "song": "Ain't No Mountain High Enough", "target": "ML - Ain't No Mountain High Enough"}
+{"input": "Al | Ksioc | Otto | Qalie", "artist": "ML", "song": "Ain't No Mountain High Enough", "target": "ML - Ain't No Mountain High Enough"}
+{"input": "Bob | Co | Upriolngj", "artist": "Bob Marley", "song": "Could You Be Loved", "target": "Bob Marley - Could You Be Loved"}
+{"input": "Could You Be Loved | Uprising", "artist": "Bob Marley", "song": "Could You Be Loved", "target": "Bob Marley - Could You Be Loved"}
+{"input": "Could You Be Loved | Uprisiny", "artist": "Bob Marley", "song": "Could You Be Loved", "target": "Bob Marley - Could You Be Loved"}
+{"input": "Could You Be Loved | Uprisiily", "artist": "Bob Marley", "song": "Could You Be Loved", "target": "Bob Marley - Could You Be Loved"}
+{"input": "Bob Marler | Could YouBe Luved | Uprisiny", "artist": "Bob Marley", "song": "Could You Be Loved", "target": "Bob Marley - Could You Be Loved"}
+{"input": "Bob Marlel | TThe | Could ouBeLoved | Uprising", "artist": "Bob Marley", "song": "Could You Be Loved", "target": "Bob Marley - Could You Be Loved"}
+{"input": "Bob Marley | Fie | Could YoyBe Loved | Uprising", "artist": "Bob Marley", "song": "Could You Be Loved", "target": "Bob Marley - Could You Be Loved"}
+{"input": "Bob Marley | Mve | Could YoyBe Loved | Uprising", "artist": "Bob Marley", "song": "Could You Be Loved", "target": "Bob Marley - Could You Be Loved"}
+{"input": "Boli | ne Walllers | One", "artist": "Bob Marley", "song": "One Love", "target": "Bob Marley - One Love"}
+{"input": "One dove | Exdtlus", "artist": "Bob Marley", "song": "One Love", "target": "Bob Marley - One Love"}
+{"input": "One Love | Exodus", "artist": "Bob Marley", "song": "One Love", "target": "Bob Marley - One Love"}
+{"input": "Bob | One Love | Exodus | Marley", "artist": "Bob Marley", "song": "One Love", "target": "Bob Marley - One Love"}
+{"input": "SELLoU | Maicoim", "artist": "Selena Gomez", "song": "Same Old Love", "target": "Selena Gomez - Same Old Love"}
+{"input": "Maicolm | SEUoU", "artist": "Selena Gomez", "song": "Same Old Love", "target": "Selena Gomez - Same Old Love"}
+{"input": "Luou | Maicoim", "artist": "Selena Gomez", "song": "Same Old Love", "target": "Selena Gomez - Same Old Love"}
+{"input": "Maicoim | SEudu", "artist": "Selena Gomez", "song": "Same Old Love", "target": "Selena Gomez - Same Old Love"}
+{"input": "One Love | Frddus", "artist": "Bob Marley & The Wailers", "song": "One Love", "target": "Bob Marley & The Wailers - One Love"}
+{"input": "Bob | Exodus", "artist": "Bob Marley & The Wailers", "song": "One Love", "target": "Bob Marley & The Wailers - One Love"}
+{"input": "One Love | Exodus", "artist": "Bob Marley & The Wailers", "song": "One Love", "target": "Bob Marley & The Wailers - One Love"}
+{"input": "Bob Marley | The Wailers | One Love | Exodus", "artist": "Bob Marley & The Wailers", "song": "One Love", "target": "Bob Marley & The Wailers - One Love"}
+{"input": "ats | hke | hatI", "artist": "BTS", "song": "Dynamite", "target": "BTS - Dynamite"}
+{"input": "bts | ike | hatI", "artist": "BTS", "song": "Dynamite", "target": "BTS - Dynamite"}
+{"input": "ats | ike | hhatI", "artist": "BTS", "song": "Dynamite", "target": "BTS - Dynamite"}
+{"input": "Nike | nats | NhatI", "artist": "BTS", "song": "Dynamite", "target": "BTS - Dynamite"}
+{"input": "Jive | Jive Bunny | The Albyi", "artist": "Jive Bunny", "song": "Jive Bunny", "target": "Jive Bunny - Jive Bunny"}
+{"input": "JJive | Jive Bunny | The Abyer", "artist": "Jive Bunny", "song": "Jive Bunny", "target": "Jive Bunny - Jive Bunny"}
+{"input": "SKa Btretetyefla | Sellattg Wrlatl", "artist": "Jive Bunny", "song": "Jive Bunny", "target": "Jive Bunny - Jive Bunny"}
+{"input": "Dalk ilo | pod konioc ba | Wuw | Ud | Iltvu | Portof", "artist": "Dalk Ilo", "song": "Pod Koniec Ba", "target": "Dalk Ilo - Pod Koniec Ba"}
+{"input": "Yaluava - | Jennej sesjl Sojuu | Vod konioc Lm | Wum | ulrol", "artist": "Dalk Ilo", "song": "Pod Koniec Ba", "target": "Dalk Ilo - Pod Koniec Ba"}
+{"input": "Vnuv | Dels d | Jbnnej sesjl Sofwu | pod koniec b | Wuu | htau | Im", "artist": "Dalk Ilo", "song": "Pod Koniec Ba", "target": "Dalk Ilo - Pod Koniec Ba"}
+{"input": "Dals Uo | Honmej sosj SoJu | pod kowlec bm | Wuph | hlauu Mwuj | Imvu -", "artist": "Dalk Ilo", "song": "Pod Koniec Ba", "target": "Dalk Ilo - Pod Koniec Ba"}
+{"input": "Jive | Jive Bunny | The Album", "artist": "Jive Bunny", "song": "The Album", "target": "Jive Bunny - The Album"}
+{"input": "Jive | Jive Bunny - The Album", "artist": "Jive Bunny", "song": "The Album", "target": "Jive Bunny - The Album"}
+{"input": "Tlvermeny | The Ibu", "artist": "Jive Bunny", "song": "The Album", "target": "Jive Bunny - The Album"}
+{"input": "Jasen | When | He | Back Fo Me | Hles | Yueh Th | Ies", "artist": "Jason Donovan", "song": "When You Come Back To Me", "target": "Jason Donovan - When You Come Back To Me"}
+{"input": "Jasun Donov | When | Berween The | Ines", "artist": "Jason Donovan", "song": "When You Come Back To Me", "target": "Jason Donovan - When You Come Back To Me"}
+{"input": "Jason Donovan | When You Gome Back To Me | Between The | Lcines", "artist": "Jason Donovan", "song": "When You Come Back To Me", "target": "Jason Donovan - When You Come Back To Me"}
+{"input": "Jasoh Donovan | When You Come Back To Me | Between The Lines", "artist": "Jason Donovan", "song": "When You Come Back To Me", "target": "Jason Donovan - When You Come Back To Me"}
+{"input": "Jasor Donovan | When You Come Back To Me | BetWeen The | Mnes", "artist": "Jason Donovan", "song": "When You Come Back To Me | Between The Lines", "target": "Jason Donovan - When You Come Back To Me | Between The Lines"}
+{"input": "Jason Donovan | When You Come Back To Me | Between The Lines", "artist": "Jason Donovan", "song": "When You Come Back To Me | Between The Lines", "target": "Jason Donovan - When You Come Back To Me | Between The Lines"}
+{"input": "Jason Donovan | When You Come Back To Me | Between The | Lines", "artist": "Jason Donovan", "song": "When You Come Back To Me | Between The Lines", "target": "Jason Donovan - When You Come Back To Me | Between The Lines"}
+{"input": "ason Donovan | Vhe | ou Conle Back ToMe | Hetween The Lines", "artist": "Jason Donovan", "song": "When You Come Back To Me | Between The Lines", "target": "Jason Donovan - When You Come Back To Me | Between The Lines"}
+{"input": "Souli Sal | Ger a Lire", "artist": "Soul II Soul", "song": "Get A Life", "target": "Soul II Soul - Get A Life"}
+{"input": "Soul l | Soul | Get A Life", "artist": "Soul II Soul", "song": "Get A Life", "target": "Soul II Soul - Get A Life"}
+{"input": "Soul II Soul | Get A Life | ANew Degad", "artist": "Soul II Soul", "song": "Get A Life", "target": "Soul II Soul - Get A Life"}
+{"input": "Soul II Soul | Get A Life", "artist": "Soul II Soul", "song": "Get A Life", "target": "Soul II Soul - Get A Life"}
+{"input": "SoullI Joul | Get A Lib | Vol | AiNew e", "artist": "Soul II Soul", "song": "Get A Life", "target": "Soul II Soul - Get A Life"}
+{"input": "Get A Life | ANew Decade", "artist": "Soul II Soul", "song": "Get A Life", "target": "Soul II Soul - Get A Life"}
+{"input": "Soul II Soul | Get A Life | A New Decade", "artist": "Soul II Soul", "song": "Get A Life", "target": "Soul II Soul - Get A Life"}
+{"input": "Soul II Soul | Get A Life | ANew Decade", "artist": "Soul II Soul", "song": "Get A Life", "target": "Soul II Soul - Get A Life"}
+{"input": "Woe | LONDON NIHTS | THE TWNELME Dl | fTaVe", "artist": "Woe", "song": "The Twelve Comma of Love", "target": "Woe - The Twelve Comma of Love"}
+{"input": "THE TWELVE COMMAL | OFLOVE", "artist": "Woe", "song": "The Twelve Comma of Love", "target": "Woe - The Twelve Comma of Love"}
+{"input": "THE TWELVE COMMA | OFIOVE", "artist": "Woe", "song": "The Twelve Comma of Love", "target": "Woe - The Twelve Comma of Love"}
+{"input": "THE TWELVE COMMA | OFLOVE", "artist": "Woe", "song": "The Twelve Comma of Love", "target": "Woe - The Twelve Comma of Love"}
+{"input": "PHLLM IGMQAS | Mguline", "artist": "Phil Collins", "song": "In the Air Tonight", "target": "Phil Collins - In the Air Tonight"}
+{"input": "Ed | ELA | Aenulias", "artist": "Phil Collins", "song": "In the Air Tonight", "target": "Phil Collins - In the Air Tonight"}
+{"input": "PTEELMACNQAS | MCulai", "artist": "Phil Collins", "song": "In the Air Tonight", "target": "Phil Collins - In the Air Tonight"}
+{"input": "SiffkM | Miuu", "artist": "Phil Collins", "song": "In the Air Tonight", "target": "Phil Collins - In the Air Tonight"}
+{"input": "London | London Nights | Boys", "artist": "London Boys", "song": "London Nights", "target": "London Boys - London Nights"}
+{"input": "London | London Nights | The Twelve Commandments Of Lo | Boys", "artist": "London Boys", "song": "London Nights", "target": "London Boys - London Nights"}
+{"input": "London Boys | London Nights | The Twelve Commandments Of Lo", "artist": "London Boys", "song": "London Nights", "target": "London Boys - London Nights"}
+{"input": "London Boys | London Nights | The Twelve Commandments Of Loc", "artist": "London Boys", "song": "London Nights", "target": "London Boys - London Nights"}
+{"input": "Young Cannib | She Drives Me Craly | Cuuked | The", "artist": "Fine Young Cannibals", "song": "She Drives Me Crazy", "target": "Fine Young Cannibals - She Drives Me Crazy"}
+{"input": "Fine Young Cannibals | She Drives Me Crazy", "artist": "Fine Young Cannibals", "song": "She Drives Me Crazy", "target": "Fine Young Cannibals - She Drives Me Crazy"}
+{"input": "Fine Young Cannibals | She Drives Me | Crazy", "artist": "Fine Young Cannibals", "song": "She Drives Me Crazy", "target": "Fine Young Cannibals - She Drives Me Crazy"}
+{"input": "Fine Young Cannibals | She Drives Me Crazy | The E | Raw", "artist": "Fine Young Cannibals", "song": "She Drives Me Crazy", "target": "Fine Young Cannibals - She Drives Me Crazy"}
+{"input": "Fine Young Gannibals | Kexdrives Me | Me | The Gooked | Grazy", "artist": "Fine Young Cannibals", "song": "She Drives Me Crazy", "target": "Fine Young Cannibals - She Drives Me Crazy"}
+{"input": "Fine Young Cannibals | She Drives Me Crazy", "artist": "Fine Young Cannibals", "song": "She Drives Me Crazy", "target": "Fine Young Cannibals - She Drives Me Crazy"}
+{"input": "Fine Young Cannibals | She Drives Me | The B | Crazy | Raw", "artist": "Fine Young Cannibals", "song": "She Drives Me Crazy", "target": "Fine Young Cannibals - She Drives Me Crazy"}
+{"input": "Fine Young Cannibals | She | Me Crazy | Drives", "artist": "Fine Young Cannibals", "song": "She Drives Me Crazy", "target": "Fine Young Cannibals - She Drives Me Crazy"}
+{"input": "Tppla Ron | Hleta", "artist": "Simply Red", "song": "A New Flame", "target": "Simply Red - A New Flame"}
+{"input": "Slinply Red | Hew Flame", "artist": "Simply Red", "song": "A New Flame", "target": "Simply Red - A New Flame"}
+{"input": "Simply Red | A New Flame", "artist": "Simply Red", "song": "A New Flame", "target": "Simply Red - A New Flame"}
+{"input": "Simply Red | ANew Flame", "artist": "Simply Red", "song": "A New Flame", "target": "Simply Red - A New Flame"}
+{"input": "Simply Red | Olc Iogt | Now | Idl", "artist": "Simply Red", "song": "If", "target": "Simply Red - If"}
+{"input": "If | MNow | Indl", "artist": "Simply Red", "song": "If", "target": "Simply Red - If"}
+{"input": "Simply Red | If | Vorcah t Khhow MF  MNow | Nev almel", "artist": "Simply Red", "song": "If", "target": "Simply Red - If"}
+{"input": "Simply-Red | If YodDah t KhowM By Now | Nev", "artist": "Simply Red", "song": "If", "target": "Simply Red - If"}
+{"input": "Hol Box | Room In Your Heart", "artist": "Living In A Box", "song": "Room In Your Heart", "target": "Living In A Box - Room In Your Heart"}
+{"input": "iving In A Box | Room In Your Heart", "artist": "Living In A Box", "song": "Room In Your Heart", "target": "Living In A Box - Room In Your Heart"}
+{"input": "LivingIn A Box | Room In Your Heart", "artist": "Living In A Box", "song": "Room In Your Heart", "target": "Living In A Box - Room In Your Heart"}
+{"input": "Living In A Box | Room In Your Heart", "artist": "Living In A Box", "song": "Room In Your Heart", "target": "Living In A Box - Room In Your Heart"}
+{"input": "living Iu A Box | oom In Your Heart", "artist": "Living In A Box", "song": "Room In Your Heart", "target": "Living In A Box - Room In Your Heart"}
+{"input": "Living In A Box | Room In Your Heart", "artist": "Living In A Box", "song": "Room In Your Heart", "target": "Living In A Box - Room In Your Heart"}
+{"input": "IIn A Box | Room In Your Heart | Living", "artist": "Living In A Box", "song": "Room In Your Heart", "target": "Living In A Box - Room In Your Heart"}
+{"input": "In A Box | Room In Your Heart", "artist": "Living In A Box", "song": "Room In Your Heart", "target": "Living In A Box - Room In Your Heart"}
+{"input": "Gldrla Estefan | Gantt | D Way Fromiou", "artist": "Gloria Estefan", "song": "Can't Stay Away From You", "target": "Gloria Estefan - Can't Stay Away From You"}
+{"input": "Gloria Estefan | Can t Stay Away From You | Anything For", "artist": "Gloria Estefan", "song": "Can't Stay Away From You", "target": "Gloria Estefan - Can't Stay Away From You"}
+{"input": "Gloria Estefan | Away From You | Anything For | Qu", "artist": "Gloria Estefan", "song": "Can't Stay Away From You", "target": "Gloria Estefan - Can't Stay Away From You"}
+{"input": "Gloria Estefan | Away From You | Anything For You | Staye", "artist": "Gloria Estefan", "song": "Can't Stay Away From You", "target": "Gloria Estefan - Can't Stay Away From You"}
+{"input": "Glor | Gan | From You | Anything For You | Away", "artist": "Gloria Estefan", "song": "Anything For You", "target": "Gloria Estefan - Anything For You"}
+{"input": "Glorla Estefan | Cant | Away From You | Anything For You", "artist": "Gloria Estefan", "song": "Anything For You", "target": "Gloria Estefan - Anything For You"}
+{"input": "Gloria Estefan | Anything For You", "artist": "Gloria Estefan", "song": "Anything For You", "target": "Gloria Estefan - Anything For You"}
+{"input": "Gloria Estefan | Away From You | Anything For You", "artist": "Gloria Estefan", "song": "Anything For You", "target": "Gloria Estefan - Anything For You"}
+{"input": "Ichaal Jackson | KAVE ME ALONE | LANGEROUS", "artist": "Michael Jackson", "song": "Leave Me Alone", "target": "Michael Jackson - Leave Me Alone"}
+{"input": "Michael Jackson | LEAVE ME ALONE | DANGEROUS", "artist": "Michael Jackson", "song": "Leave Me Alone", "target": "Michael Jackson - Leave Me Alone"}
+{"input": "Michael Jackson | LEAVE MEALONE | DANGEROUS", "artist": "Michael Jackson", "song": "Leave Me Alone", "target": "Michael Jackson - Leave Me Alone"}
+{"input": "Michael Jacksui | LEAVE ME ALONE | DANGEROUS", "artist": "Michael Jackson", "song": "Leave Me Alone", "target": "Michael Jackson - Leave Me Alone"}
+{"input": "TOP | MIcHA", "artist": "TOP", "song": "MICHA", "target": "TOP - MICHA"}
+{"input": "To Pe | MIcHA", "artist": "TOP", "song": "MICHA", "target": "TOP - MICHA"}
+{"input": "Tope | MIcHA", "artist": "TOP", "song": "MICHA", "target": "TOP - MICHA"}
+{"input": "Tope | MIcHa", "artist": "TOP", "song": "MICHA", "target": "TOP - MICHA"}
+{"input": "MIChaly | SHI", "artist": "Michael", "song": "Shine", "target": "Michael - Shine"}
+{"input": "MIcHay | SH", "artist": "Michael", "song": "Shine", "target": "Michael - Shine"}
+{"input": "MICHaEl | SHR", "artist": "Michael", "song": "Shine", "target": "Michael - Shine"}
+{"input": "MIChacl | SHR", "artist": "Michael", "song": "Shine", "target": "Michael - Shine"}
+{"input": "PN | Ucollov", "artist": "PN", "song": "Ucollov", "target": "PN - Ucollov"}
+{"input": "PN | Ucollow", "artist": "PN", "song": "Ucollov", "target": "PN - Ucollov"}
+{"input": "IM | Ugolov", "artist": "PN", "song": "Ucollov", "target": "PN - Ucollov"}
+{"input": "OM | Vtoltow", "artist": "PN", "song": "Ucollov", "target": "PN - Ucollov"}
+{"input": "Miciiael Vacksom | EAVEMLALONE | ErOUS", "artist": "Michael Jackson", "song": "Leave Me Alone", "target": "Michael Jackson - Leave Me Alone"}
+{"input": "Michiael Jackson | DANGEROUS", "artist": "Michael Jackson", "song": "Leave Me Alone", "target": "Michael Jackson - Leave Me Alone"}
+{"input": "Miciiael Jackson | LEAVEME ALONE | DANGEROUS", "artist": "Michael Jackson", "song": "Leave Me Alone", "target": "Michael Jackson - Leave Me Alone"}
+{"input": "Micijael Jackson | LEAVE MEALONE | DANGEROUS", "artist": "Michael Jackson", "song": "Leave Me Alone", "target": "Michael Jackson - Leave Me Alone"}
+{"input": "Ineel | dity | Gobd Hirel | PARADiBe", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner Gity | Gopd | PARADiBE", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner City | Good Life | PARADISE", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner city | Good Life | PARADISE", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner | Good Life | PARADISE | city", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner | Good Life | PARADISE | City", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner | Good Life | PARADISE", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Inner City | Good Life | PARADISE", "artist": "Inner City", "song": "Good Life", "target": "Inner City - Good Life"}
+{"input": "Aubbg | My Prerngetive", "artist": "Bobby Brown", "song": "My Prerogative", "target": "Bobby Brown - My Prerogative"}
+{"input": "Bobby | Yown | My Prerogative", "artist": "Bobby Brown", "song": "My Prerogative", "target": "Bobby Brown - My Prerogative"}
+{"input": "Bobby | rown | My Prerogative", "artist": "Bobby Brown", "song": "My Prerogative", "target": "Bobby Brown - My Prerogative"}
+{"input": "Bobby Brown | My Prerogative", "artist": "Bobby Brown", "song": "My Prerogative", "target": "Bobby Brown - My Prerogative"}
+{"input": "Bobby Brown | My Prerogative | Dont Be Cruel", "artist": "Bobby Brown", "song": "My Prerogative", "target": "Bobby Brown - My Prerogative"}
+{"input": "Bobby Brown | My Prerogative", "artist": "Bobby Brown", "song": "My Prerogative", "target": "Bobby Brown - My Prerogative"}
+{"input": "Bobby Brown | My Prerogacive", "artist": "Bobby Brown", "song": "My Prerogative", "target": "Bobby Brown - My Prerogative"}
+{"input": "Bobby Browi | My Prerogative", "artist": "Bobby Brown", "song": "My Prerogative", "target": "Bobby Brown - My Prerogative"}
+{"input": "ellnda Carlisle | eav | ALight On | Runaway Horses", "artist": "Belinda Carlisle", "song": "Leave A Light On", "target": "Belinda Carlisle - Leave A Light On"}
+{"input": "Belinda Carlisle | eave A Light On | Runaway Horses", "artist": "Belinda Carlisle", "song": "Leave A Light On", "target": "Belinda Carlisle - Leave A Light On"}
+{"input": "Belinda Carlisle | Leave A Light On | Runaway Horses", "artist": "Belinda Carlisle", "song": "Leave A Light On", "target": "Belinda Carlisle - Leave A Light On"}
+{"input": "Belinda CarIlsle | eave A Light On | Runawav Horses", "artist": "Belinda Carlisle", "song": "Leave A Light On", "target": "Belinda Carlisle - Leave A Light On"}
+{"input": "Jule | TOP SlL", "artist": "Jule", "song": "Top Silk", "target": "Jule - Top Silk"}
+{"input": "UML | TOP Slf", "artist": "Jule", "song": "Top Silk", "target": "Jule - Top Silk"}
+{"input": "uMc | TOP SIR", "artist": "Jule", "song": "Top Silk", "target": "Jule - Top Silk"}
+{"input": "Wumc | TOP Sirl", "artist": "Jule", "song": "Top Silk", "target": "Jule - Top Silk"}
+{"input": "free | AaGI", "artist": "Free", "song": "Free", "target": "Free - Free"}
+{"input": "Free | DacI", "artist": "Free", "song": "Free", "target": "Free - Free"}
+{"input": "Free | AacI", "artist": "Free", "song": "Free", "target": "Free - Free"}
+{"input": "FREE | Goid | Aagi", "artist": "Free", "song": "Free", "target": "Free - Free"}
+{"input": "Alnuz Ganllsle | Way Horses", "artist": "Belinda Carlisle", "song": "Leave A Light On", "target": "Belinda Carlisle - Leave A Light On"}
+{"input": "Beliid Garlisle | Wqaway Horses", "artist": "Belinda Carlisle", "song": "Leave A Light On", "target": "Belinda Carlisle - Leave A Light On"}
+{"input": "elindla Carlisle | eaye A Light On | Wiaway Horses", "artist": "Belinda Carlisle", "song": "Leave A Light On", "target": "Belinda Carlisle - Leave A Light On"}
+{"input": "elindla Carlisle | eave A Light On | Ruqlawray Horses", "artist": "Belinda Carlisle", "song": "Leave A Light On", "target": "Belinda Carlisle - Leave A Light On"}
+{"input": "Jonnso | ove | Blast", "artist": "Jonnson", "song": "Love Train", "target": "Jonnson - Love Train"}
+{"input": "Love Hrain | Blast", "artist": "Jonnson", "song": "Love Train", "target": "Jonnson - Love Train"}
+{"input": "Love Train | Blast", "artist": "Jonnson", "song": "Love Train", "target": "Jonnson - Love Train"}
+{"input": "Holly Jollson | Love Train | Blast", "artist": "Jonnson", "song": "Love Train", "target": "Jonnson - Love Train"}
+{"input": "Love Traiu | Blast", "artist": "Holly Johnson", "song": "Love Train", "target": "Holly Johnson - Love Train"}
+{"input": "Holly Joilson | Love Train | Blast", "artist": "Holly Johnson", "song": "Love Train", "target": "Holly Johnson - Love Train"}
+{"input": "Holly Jolison | Love Train | Blast", "artist": "Holly Johnson", "song": "Love Train", "target": "Holly Johnson - Love Train"}
+{"input": "Holly Johison | Love Train | Blast", "artist": "Holly Johnson", "song": "Love Train", "target": "Holly Johnson - Love Train"}
+{"input": "ancika | Soldiers | artika", "artist": "Martika", "song": "Toy Soldiers", "target": "Martika - Toy Soldiers"}
+{"input": "artika | Soldiers | artika | Toy", "artist": "Martika", "song": "Toy Soldiers", "target": "Martika - Toy Soldiers"}
+{"input": "Martlka | Toy Soldiers | Martika", "artist": "Martika", "song": "Toy Soldiers", "target": "Martika - Toy Soldiers"}
+{"input": "Martika | Soldiers | Martika | Toy", "artist": "Martika", "song": "Toy Soldiers", "target": "Martika - Toy Soldiers"}
+{"input": "We | Soluters", "artist": "Martika", "song": "Toy Soldiers", "target": "Martika - Toy Soldiers"}
+{"input": "Martika | Soldiers | Martika", "artist": "Martika", "song": "Toy Soldiers", "target": "Martika - Toy Soldiers"}
+{"input": "Martika | Soldiers | Martika | Toy", "artist": "Martika", "song": "Toy Soldiers", "target": "Martika - Toy Soldiers"}
+{"input": "Martika | Toy Soldiers | Martika", "artist": "Martika", "song": "Toy Soldiers", "target": "Martika - Toy Soldiers"}
+{"input": "Joel | Storm Front | Bllly -", "artist": "Billy Joel", "song": "Storm Front", "target": "Billy Joel - Storm Front"}
+{"input": "Billy Joel | Storm Front", "artist": "Billy Joel", "song": "Storm Front", "target": "Billy Joel - Storm Front"}
+{"input": "Joel | Storm Front", "artist": "Billy Joel", "song": "Storm Front", "target": "Billy Joel - Storm Front"}
+{"input": "Joel | Storm Front | Billy -", "artist": "Billy Joel", "song": "Storm Front", "target": "Billy Joel - Storm Front"}
+{"input": "UC | TrIbui- | THE", "artist": "The Tribuns", "song": "The Tribuns", "target": "The Tribuns - The Tribuns"}
+{"input": "TRIBUN- | THE | Hs", "artist": "The Tribuns", "song": "The Tribuns", "target": "The Tribuns - The Tribuns"}
+{"input": "THE | TRIBUNS", "artist": "The Tribuns", "song": "The Tribuns", "target": "The Tribuns - The Tribuns"}
+{"input": "THE | Iy | TRIBUNS", "artist": "The Tribuns", "song": "The Tribuns", "target": "The Tribuns - The Tribuns"}
+{"input": "Lohe | RaNGERI", "artist": "Lohe", "song": "Ranger", "target": "Lohe - Ranger"}
+{"input": "Lone | RangeR", "artist": "Lohe", "song": "Ranger", "target": "Lohe - Ranger"}
+{"input": "Lohe | Ranger", "artist": "Lohe", "song": "Ranger", "target": "Lohe - Ranger"}
+{"input": "Tont | Rakat", "artist": "Lohe", "song": "Ranger", "target": "Lohe - Ranger"}
+{"input": "y Joel | Storm Front", "artist": "Billy Joel", "song": "Storm Front", "target": "Billy Joel - Storm Front"}
+{"input": "Bllly Joel | We | Storm Front", "artist": "Billy Joel", "song": "Storm Front", "target": "Billy Joel - Storm Front"}
+{"input": "Billy Joel | Storm Front", "artist": "Billy Joel", "song": "Storm Front", "target": "Billy Joel - Storm Front"}
+{"input": "Joel | Storm Front", "artist": "Billy Joel", "song": "Storm Front", "target": "Billy Joel - Storm Front"}
+{"input": "Kould Tuct Bal | Hme | Heartor Stone", "artist": "Cher", "song": "Heart of Stone", "target": "Cher - Heart of Stone"}
+{"input": "Chi | IlnGould Turn Back Timie | Heart of Stone", "artist": "Cher", "song": "Heart of Stone", "target": "Cher - Heart of Stone"}
+{"input": "Cliee | If FCould Turn Back Time | Heart of Stone", "artist": "Cher", "song": "Heart of Stone", "target": "Cher - Heart of Stone"}
+{"input": "Cher | Heart of Stone", "artist": "Cher", "song": "Heart of Stone", "target": "Cher - Heart of Stone"}
+{"input": "Cher | Heart of Stone", "artist": "Cher", "song": "If I Could Turn Back Time", "target": "Cher - If I Could Turn Back Time"}
+{"input": "Cher | If  Could Turn Back Time | Heart of Stone", "artist": "Cher", "song": "If I Could Turn Back Time", "target": "Cher - If I Could Turn Back Time"}
+{"input": "Cher | If I Could Turn Back Time | Heart of Stone", "artist": "Cher", "song": "If I Could Turn Back Time", "target": "Cher - If I Could Turn Back Time"}
+{"input": "Cher | If  Could Turn Back Time", "artist": "Cher", "song": "If I Could Turn Back Time", "target": "Cher - If I Could Turn Back Time"}
+{"input": "Grencesc Flits Culleceivn | Hlelp", "artist": "Grateful Dead", "song": "Help on the Way", "target": "Grateful Dead - Help on the Way"}
+{"input": "Help | Grejcese Flics Colleccivn", "artist": "Grateful Dead", "song": "Help on the Way", "target": "Grateful Dead - Help on the Way"}
+{"input": "Help | Grearese Flics Collecivi", "artist": "Grateful Dead", "song": "Help on the Way", "target": "Grateful Dead - Help on the Way"}
+{"input": "Baiiaiaraa i  Laiziziieeieeig | Help | Greatese Flits Colleccivi", "artist": "Grateful Dead", "song": "Help on the Way", "target": "Grateful Dead - Help on the Way"}
+{"input": "Ljmngieeneenoo | Help", "artist": "The Beatles", "song": "Help", "target": "The Beatles - Help"}
+{"input": "Help | Greaces Fllts Collecelil", "artist": "The Beatles", "song": "Help", "target": "The Beatles - Help"}
+{"input": "Hlelp | Greatest Hlts cullectiul", "artist": "The Beatles", "song": "Help", "target": "The Beatles - Help"}
+{"input": "Grewtese Flits Cullecciui | flelp", "artist": "The Beatles", "song": "Help", "target": "The Beatles - Help"}
+{"input": "phe | Studeyons | Foi", "artist": "P!nk", "song": "Just Give Me a Reason", "target": "P!nk - Just Give Me a Reason"}
+{"input": "Parilu AeJul | Straiyjic Up", "artist": "P!nk", "song": "Just Give Me a Reason", "target": "P!nk - Just Give Me a Reason"}
+{"input": "Pauilu Aiyelul | Straigjic Up", "artist": "P!nk", "song": "Just Give Me a Reason", "target": "P!nk - Just Give Me a Reason"}
+{"input": "Paula Aielul | Straiyint Up", "artist": "P!nk", "song": "Just Give Me a Reason", "target": "P!nk - Just Give Me a Reason"}
+{"input": "EDE | WLESE", "artist": "EDE", "song": "WLESE", "target": "EDE - WLESE"}
+{"input": "Ld | Jo | WLES", "artist": "Ludovico Einaudi", "song": "Nuvole Bianche", "target": "Ludovico Einaudi - Nuvole Bianche"}
+{"input": "LD | Jo | LES", "artist": "Ludovico Einaudi", "song": "Nuvole Bianche", "target": "Ludovico Einaudi - Nuvole Bianche"}
+{"input": "Ld | Jo | Wles", "artist": "Ludovico Einaudi", "song": "Nuvole Bianche", "target": "Ludovico Einaudi - Nuvole Bianche"}
+{"input": "Pauilu A | Straitjilc | Foneved | our Girl", "artist": "Paula Abdul", "song": "Straight Up", "target": "Paula Abdul - Straight Up"}
+{"input": "Pauila Aball | Straiyjic | Foreved | our Girl", "artist": "Paula Abdul", "song": "Straight Up", "target": "Paula Abdul - Straight Up"}
+{"input": "Paula Atdul | Straiyie Up", "artist": "Paula Abdul", "song": "Straight Up", "target": "Paula Abdul - Straight Up"}
+{"input": "Paula Abdul | Straiyil Up", "artist": "Paula Abdul", "song": "Straight Up", "target": "Paula Abdul - Straight Up"}
+{"input": "Mddy | DiSIU", "artist": "Muddy Waters", "song": "Distant Land", "target": "Muddy Waters - Distant Land"}
+{"input": "Kaoma | Lambada", "artist": "Kaoma", "song": "Lambada", "target": "Kaoma - Lambada"}
+{"input": "Kaoma | Lambaga", "artist": "Kaoma", "song": "Lambada", "target": "Kaoma - Lambada"}
+{"input": "Kaoma | Lambae", "artist": "Kaoma", "song": "Lambada", "target": "Kaoma - Lambada"}
+{"input": "Kaoma | Lamibae", "artist": "Kaoma", "song": "Lambada", "target": "Kaoma - Lambada"}
+{"input": "Kaoma | Lambada", "artist": "Kaoma", "song": "Lambada", "target": "Kaoma - Lambada"}
+{"input": "Kaoma | Lanibada", "artist": "Kaoma", "song": "Lambada", "target": "Kaoma - Lambada"}
+{"input": "Kaoiia | Lambbada", "artist": "Kaoma", "song": "Lambada", "target": "Kaoma - Lambada"}
+{"input": "Kaoua | Lambada", "artist": "Kaoma", "song": "Lambada", "target": "Kaoma - Lambada"}
+{"input": "Trusvis lVamp | Velvetedm", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "TransvIsion Vamp | Velveteen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "Transvislon Vamp | Velveteen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "TrunsyIslom Valle | Velvereen", "artist": "Transvision Vamp", "song": "Velveteen", "target": "Transvision Vamp - Velveteen"}
+{"input": "TransvIsivn VFamp | Baby", "artist": "Transvision Vamp", "song": "Baby", "target": "Transvision Vamp - Baby"}
+{"input": "Transvlsiun | Velveteen | amp", "artist": "Transvision Vamp", "song": "Baby", "target": "Transvision Vamp - Baby"}
+{"input": "Transvisln Vamp | Velveteen", "artist": "Transvision Vamp", "song": "Baby", "target": "Transvision Vamp - Baby"}
+{"input": "Velveteen | Vap", "artist": "Transvision Vamp", "song": "Baby", "target": "Transvision Vamp - Baby"}
+{"input": "Gurs NlRoses | ur Destiaci | Ue", "artist": "Guns N' Roses", "song": "Appetite For Destruction", "target": "Guns N' Roses - Appetite For Destruction"}
+{"input": "Appeen | For Destruction", "artist": "Guns N' Roses", "song": "Appetite For Destruction", "target": "Guns N' Roses - Appetite For Destruction"}
+{"input": "Appete | Destruction", "artist": "Guns N' Roses", "song": "Appetite For Destruction", "target": "Guns N' Roses - Appetite For Destruction"}
+{"input": "Appetite For Destruction | Mine", "artist": "Guns N' Roses", "song": "Appetite For Destruction", "target": "Guns N' Roses - Appetite For Destruction"}
+{"input": "Seenanea | Mi | nFanletoltio", "artist": "Sinead O'Connor", "song": "Nothing Compares 2 U", "target": "Sinead O'Connor - Nothing Compares 2 U"}
+{"input": "Ffucfor | Ee Best | Foraign Affaif | Sacna", "artist": "Tina Turner", "song": "The Best", "target": "Tina Turner - The Best"}
+{"input": "Turner | The Best | Foreign Affair | Tina", "artist": "Tina Turner", "song": "The Best", "target": "Tina Turner - The Best"}
+{"input": "Tina Turner | The Best | Foreign Affair", "artist": "Tina Turner", "song": "The Best", "target": "Tina Turner - The Best"}
+{"input": "Tina Turner | The Best | Foreiyu Afiair", "artist": "Tina Turner", "song": "The Best", "target": "Tina Turner - The Best"}
+{"input": "na turtec | Bejf", "artist": "Tina Turner", "song": "The Best", "target": "Tina Turner - The Best"}
+{"input": "Turier | The Best | Forelyju Arfajr", "artist": "Tina Turner", "song": "The Best", "target": "Tina Turner - The Best"}
+{"input": "Tina Turuer | The Best | Foreiyu Afiain", "artist": "Tina Turner", "song": "The Best", "target": "Tina Turner - The Best"}
+{"input": "Tina Turner | The Best | Foreiyju Affir", "artist": "Tina Turner", "song": "The Best", "target": "Tina Turner - The Best"}
+{"input": "Alice Goopor | Poison | Trash", "artist": "Alice Cooper", "song": "Poison", "target": "Alice Cooper - Poison"}
+{"input": "Allce | Poison | Trash | Cooper", "artist": "Alice Cooper", "song": "Poison", "target": "Alice Cooper - Poison"}
+{"input": "Alice | Poison | Trash | Cooper", "artist": "Alice Cooper", "song": "Poison", "target": "Alice Cooper - Poison"}
+{"input": "Alice Cooper | Poison | Trash", "artist": "Alice Cooper", "song": "Poison", "target": "Alice Cooper - Poison"}
+{"input": "Alice Cooper | Poison | Trash", "artist": "Alice Cooper", "song": "Poison", "target": "Alice Cooper - Poison"}
+{"input": "Alice Couper | Poisonj | Trasii", "artist": "Alice Cooper", "song": "Poison", "target": "Alice Cooper - Poison"}
+{"input": "Alice Cuvuer | Poisui | Trasi", "artist": "Alice Cooper", "song": "Poison", "target": "Alice Cooper - Poison"}
+{"input": "Alice Cooper | Poisoll | Trasil", "artist": "Alice Cooper", "song": "Poison", "target": "Alice Cooper - Poison"}
+{"input": "Simple Minds | Street Fighting Years", "artist": "Simple Minds", "song": "Belfast Child", "target": "Simple Minds - Belfast Child"}
+{"input": "Simple Minds | Belfast Child | Street Fighting Years", "artist": "Simple Minds", "song": "Belfast Child", "target": "Simple Minds - Belfast Child"}
+{"input": "Belfast Child | Street Fighting Years", "artist": "Simple Minds", "song": "Belfast Child", "target": "Simple Minds - Belfast Child"}
+{"input": "Simiple Minds | Belfast Child | Street Fighting Years", "artist": "Simple Minds", "song": "Belfast Child", "target": "Simple Minds - Belfast Child"}
+{"input": "Simple Minds | Belfast Child | Street Fighting Years", "artist": "Simple Minds", "song": "Belfast Child", "target": "Simple Minds - Belfast Child"}
+{"input": "Simple Minds | Belfast Child", "artist": "Simple Minds", "song": "Belfast Child", "target": "Simple Minds - Belfast Child"}
+{"input": "Simple MMinds | Belfast Child | Street Fighting Years", "artist": "Simple Minds", "song": "Belfast Child", "target": "Simple Minds - Belfast Child"}
+{"input": "Simple | Belfast Child | Street Figheimg Years", "artist": "Simple Minds", "song": "Belfast Child", "target": "Simple Minds - Belfast Child"}
+{"input": "phll Collins | Anocher Day In Patt | But Seriously", "artist": "Phil Collins", "song": "Another Day In Paradise", "target": "Phil Collins - Another Day In Paradise"}
+{"input": "Phil Collins | Another Day In Paradise | But Seriously", "artist": "Phil Collins", "song": "Another Day In Paradise", "target": "Phil Collins - Another Day In Paradise"}
+{"input": "Phil Collins | Another Day In Paradise | But | Seriously", "artist": "Phil Collins", "song": "Another Day In Paradise", "target": "Phil Collins - Another Day In Paradise"}
+{"input": "Phil Collins | In Paradise | But Seriously | Day", "artist": "Phil Collins", "song": "Another Day In Paradise", "target": "Phil Collins - Another Day In Paradise"}
+{"input": "LIUUuE | JN", "artist": "Liuue", "song": "JN", "target": "Liuue - JN"}
+{"input": "LtuUuE | JN", "artist": "Liuue", "song": "JN", "target": "Liuue - JN"}
+{"input": "UutuUuE | JN", "artist": "Liuue", "song": "JN", "target": "Liuue - JN"}
+{"input": "UuTuUuL | IN", "artist": "Liuue", "song": "JN", "target": "Liuue - JN"}
+{"input": "Ivu | Iaitic", "artist": "Ivu", "song": "To Be", "target": "Ivu - To Be"}
+{"input": "TO BE | bise Trrafiic", "artist": "Ivu", "song": "To Be", "target": "Ivu - To Be"}
+{"input": "TO BEC | Dise Traffic", "artist": "Ivu", "song": "To Be", "target": "Ivu - To Be"}
+{"input": "TO BE | Dise Traffic", "artist": "Ivu", "song": "To Be", "target": "Ivu - To Be"}
+{"input": "DME | WoRLi", "artist": "Demi Lovato", "song": "Warrior", "target": "Demi Lovato - Warrior"}
+{"input": "UME | VORL I", "artist": "Demi Lovato", "song": "Warrior", "target": "Demi Lovato - Warrior"}
+{"input": "Phil Collins | Another | UJu | Puradise | But Seriousy", "artist": "Phil Collins", "song": "Another Day In Paradise", "target": "Phil Collins - Another Day In Paradise"}
+{"input": "Phil Collins | Another Day In Paradise | But Seriously", "artist": "Phil Collins", "song": "Another Day In Paradise", "target": "Phil Collins - Another Day In Paradise"}
+{"input": "Phil Collins | Another Day In Puradise | But Seriously", "artist": "Phil Collins", "song": "Another Day In Paradise", "target": "Phil Collins - Another Day In Paradise"}
+{"input": "Phil Collins | Another Day ln Paradise | But Seriously", "artist": "Phil Collins", "song": "Another Day In Paradise", "target": "Phil Collins - Another Day In Paradise"}
+{"input": "ROY ORBI | You", "artist": "Roy Orbison", "song": "You", "target": "Roy Orbison - You"}
+{"input": "ROY ORPI | You", "artist": "Roy Orbison", "song": "You", "target": "Roy Orbison - You"}
+{"input": "ROY ORBL | You", "artist": "Roy Orbison", "song": "You", "target": "Roy Orbison - You"}
+{"input": "ROY ORPL | You", "artist": "Roy Orbison", "song": "You", "target": "Roy Orbison - You"}
+{"input": "Rby Orbison | Mystery Girl", "artist": "Roy Orbison", "song": "You Got It", "target": "Roy Orbison - You Got It"}
+{"input": "Orbison | You Got It | Mystery Girl | Roy", "artist": "Roy Orbison", "song": "You Got It", "target": "Roy Orbison - You Got It"}
+{"input": "Roy Orbison | You Got It | Mystery Girl", "artist": "Roy Orbison", "song": "You Got It", "target": "Roy Orbison - You Got It"}
+{"input": "Orbison | You Got It | Mystery Girl", "artist": "Roy Orbison", "song": "You Got It", "target": "Roy Orbison - You Got It"}
+{"input": "Cals | Living Years", "artist": "Mike + The Mechanics", "song": "The Living Years", "target": "Mike + The Mechanics - The Living Years"}
+{"input": "The Living Years | TheE | Years", "artist": "Mike + The Mechanics", "song": "The Living Years", "target": "Mike + The Mechanics - The Living Years"}
+{"input": "The Living Years | The E | Years", "artist": "Mike + The Mechanics", "song": "The Living Years", "target": "Mike + The Mechanics - The Living Years"}
+{"input": "The Living Years | The Living Years", "artist": "Mike + The Mechanics", "song": "The Living Years", "target": "Mike + The Mechanics - The Living Years"}
+{"input": "The Living Years | The | Years", "artist": "Mike + The Mechanics", "song": "The Living Years", "target": "Mike + The Mechanics - The Living Years"}
+{"input": "The | Living Years | The Living Years", "artist": "Mike + The Mechanics", "song": "The Living Years", "target": "Mike + The Mechanics - The Living Years"}
+{"input": "The Living Years | The Living Years", "artist": "Mike + The Mechanics", "song": "The Living Years", "target": "Mike + The Mechanics - The Living Years"}
+{"input": "Tke Living Years | The Living Years", "artist": "Mike + The Mechanics", "song": "The Living Years", "target": "Mike + The Mechanics - The Living Years"}
+{"input": "Stop | Stop", "artist": "Sam Brown", "song": "Stop", "target": "Sam Brown - Stop"}
+{"input": "Sam Brown | Stop | Stop", "artist": "Sam Brown", "song": "Stop", "target": "Sam Brown - Stop"}
+{"input": "CNU | Sam Brown | Stop | Stop", "artist": "Sam Brown", "song": "Stop", "target": "Sam Brown - Stop"}
+{"input": "Sam Brown | Stop | Stop", "artist": "Sam Brown", "song": "Stop", "target": "Sam Brown - Stop"}
+{"input": "Sam Grown | Stojp | Stop", "artist": "Sam Brown", "song": "Stop", "target": "Sam Brown - Stop"}
+{"input": "Sam Brown | Stop | Stod", "artist": "Sam Brown", "song": "Stop", "target": "Sam Brown - Stop"}
+{"input": "Sam Brown | Stop | Stop", "artist": "Sam Brown", "song": "Stop", "target": "Sam Brown - Stop"}
+{"input": "Sam Brown | Stop | Stup", "artist": "Sam Brown", "song": "Stop", "target": "Sam Brown - Stop"}
+{"input": "Tabor | Bealer | Ten Got", "artist": "Jason Donovan", "song": "Ten Good Reasons", "target": "Jason Donovan - Ten Good Reasons"}
+{"input": "Jason Donova | Ten GoutRe", "artist": "Jason Donovan", "song": "Ten Good Reasons", "target": "Jason Donovan - Ten Good Reasons"}
+{"input": "Jason Donovan | Ten Good Reasons", "artist": "Jason Donovan", "song": "Ten Good Reasons", "target": "Jason Donovan - Ten Good Reasons"}
+{"input": "Jason Donovan | Sealed With A Kiss | Ten Good Reasons", "artist": "Jason Donovan", "song": "Ten Good Reasons", "target": "Jason Donovan - Ten Good Reasons"}
+{"input": "Jasan Donqvan | Sealed WNith A Riss | Ten Good Reasous", "artist": "Jason Donovan", "song": "Sealed With A Kiss", "target": "Jason Donovan - Sealed With A Kiss"}
+{"input": "Jason Donovan | Sealed With A Kiss | Ten Good Reasons", "artist": "Jason Donovan", "song": "Sealed With A Kiss", "target": "Jason Donovan - Sealed With A Kiss"}
+{"input": "Jason Donovan | Sealed With A | Ten Good Reasons | Kiss", "artist": "Jason Donovan", "song": "Sealed With A Kiss", "target": "Jason Donovan - Sealed With A Kiss"}
+{"input": "Sealed With A Kiss | Ten Good Reasons", "artist": "Jason Donovan", "song": "Sealed With A Kiss", "target": "Jason Donovan - Sealed With A Kiss"}
+{"input": "Wquldnt | Ijey Yourself", "artist": "Kylie Minogue", "song": "Wouldn't Change A Thing", "target": "Kylie Minogue - Wouldn't Change A Thing"}
+{"input": "Kelie Minggue | Wouldnyt Change A Thing | Ijoy Yourself", "artist": "Kylie Minogue", "song": "Wouldn't Change A Thing", "target": "Kylie Minogue - Wouldn't Change A Thing"}
+{"input": "ijpy Yourself | Thingj", "artist": "Kylie Minogue", "song": "Wouldn't Change A Thing", "target": "Kylie Minogue - Wouldn't Change A Thing"}
+{"input": "Kylie Minogue | Wouldnt Change A | Erjoy Yourseli | Thing", "artist": "Kylie Minogue", "song": "Wouldn't Change A Thing", "target": "Kylie Minogue - Wouldn't Change A Thing"}
+{"input": "Kylie Minoque | Enjoy Yourseli", "artist": "Kylie Minogue", "song": "Enjoy Yourself", "target": "Kylie Minogue - Enjoy Yourself"}
+{"input": "Kylie Minpoguue | Enjoy Yourseli", "artist": "Kylie Minogue", "song": "Enjoy Yourself", "target": "Kylie Minogue - Enjoy Yourself"}
+{"input": "Kylie Minogue | Enjoy Yourseli", "artist": "Kylie Minogue", "song": "Enjoy Yourself", "target": "Kylie Minogue - Enjoy Yourself"}
+{"input": "Kylie Minegue | Enjoy ourseli", "artist": "Kylie Minogue", "song": "Enjoy Yourself", "target": "Kylie Minogue - Enjoy Yourself"}
+{"input": "RebelNS And | Street Tuff-", "artist": "Rebel MC", "song": "Street Tuff", "target": "Rebel MC - Street Tuff"}
+{"input": "Rebel MS And | duble Troubl | Street uff", "artist": "Rebel MC", "song": "Street Tuff", "target": "Rebel MC - Street Tuff"}
+{"input": "Rebel MC And Double Trouble | Street Tuff-", "artist": "Rebel MC", "song": "Street Tuff", "target": "Rebel MC - Street Tuff"}
+{"input": "Rebel MC-And Double Tropble | Street Tuff", "artist": "Rebel MC", "song": "Street Tuff", "target": "Rebel MC - Street Tuff"}
+{"input": "Rebel MC And Double Ijuble | Str | FTutf", "artist": "Rebel MC", "song": "Street Tuff", "target": "Rebel MC - Street Tuff"}
+{"input": "Rebel MC And Double Tuuble | Street Tuff", "artist": "Rebel MC", "song": "Street Tuff", "target": "Rebel MC - Street Tuff"}
+{"input": "Rebel MC And Double Truuble | Street Tuff", "artist": "Rebel MC", "song": "Street Tuff", "target": "Rebel MC - Street Tuff"}
+{"input": "Rebel MC And Double Trouble | Street Tuff", "artist": "Rebel MC", "song": "Street Tuff", "target": "Rebel MC - Street Tuff"}
+{"input": "EGOIEi | TRE | ENTEL | umaA", "artist": "The Twelve", "song": "Requiem of Dance", "target": "The Twelve - Requiem of Dance"}
+{"input": "EQUIEM | ThE | WEL E | COMMA | OF DANCE", "artist": "The Twelve", "song": "Requiem of Dance", "target": "The Twelve - Requiem of Dance"}
+{"input": "REQUIEM | ThE TWELVEICOMMA | OF DANCE", "artist": "The Twelve", "song": "Requiem of Dance", "target": "The Twelve - Requiem of Dance"}
+{"input": "REQUIEM | THE TWELVEICOMMA | OF DANCE", "artist": "The Twelve", "song": "Requiem of Dance", "target": "The Twelve - Requiem of Dance"}
